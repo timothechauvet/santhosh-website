@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Santhosh D | Consulting Engineer & Contractor</title>
+		
+		<!-- Tailwind CSS v3 with Plugins -->
+		<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+		<!-- Google Fonts: Geometric Sans-Serif -->
+		<link href="https://fonts.googleapis.com" rel="preconnect"/>
+		<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+		<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/>
+		<!-- Material Symbols for Monochromatic Icons -->
+		<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
+
+		<script>
+			tailwind.config = {
+			theme: {
+				extend: {
+				fontFamily: {
+					sans: ['Plus Jakarta Sans', 'sans-serif'],
+				},
+				colors: {
+					'aero-green': '#39D353',
+					'aero-blue': '#00B4D8',
+					'aero-dark': '#064E3B',
+					'solar-lime': '#D9F99D',
+					'solar-green': '#22C55E',
+				},
+				backgroundImage: {
+					'glass-gradient': 'linear-gradient(135deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.1) 100%)',
+					'aero-bg': 'radial-gradient(circle at top left, #E0F2F1 0%, #FFFFFF 50%, #DCFCE7 100%)',
+					'aero-gradient': 'linear-gradient(135deg, #39D353 0%, #00B4D8 100%)',
+					'aero-green-gradient': 'linear-gradient(135deg, #39D353 0%, #22c35e 100%)',
+					'solar-button': 'linear-gradient(180deg, #A7F3D0 0%, #22C55E 50%, #15803D 100%)',
+				},
+				borderRadius: {
+					'squircle': '28%',
+				}
+				}
+			}
+			}
+		</script>
+		%sveltekit.head%
+	</head>
+	<body data-sveltekit-preload-data="hover" class="bg-aero-bg font-sans text-slate-800 selection:bg-aero-green selection:text-white">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>
