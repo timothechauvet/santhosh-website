@@ -445,7 +445,7 @@
         </div>
         <span
           class="font-bold text-xl tracking-tight text-aero-dark hidden sm:block"
-          >Golden Village</span
+          >Santhosh .D, Civil Engineer</span
         >
       </div>
       <a
