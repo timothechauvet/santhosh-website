@@ -1,7 +1,7 @@
 <script>
   import { base } from "$app/paths";
   import { onMount } from "svelte";
-  import { MessageCircle } from "lucide-svelte";
+  import { Mail } from "lucide-svelte";
 
   const translations = {
     en: {
@@ -33,10 +33,11 @@
         "Optimized business layouts with structural integrity and modern aesthetics.",
       footerDesc:
         "Dedicated to engineering excellence across Karnataka. Shaping the future through sustainable and modern construction practices.",
-      footerYears: "Based in Karnataka, India Since Years",
+      footerYears: "Based in Karnataka, India since 2002",
       contactDetails: "Contact Details",
       location: "Bengaluru & Coastal Regions,<br/>Karnataka, India",
-      rights: "Built for Karnataka. All rights reserved.",
+      rights:
+        "Built for Karnataka. No personal data is collected. All rights reserved.",
       projects: [
         { title: "Modern Villa", location: "Mysuru, KA", img: "villa.jpg" },
         {
@@ -80,10 +81,11 @@
         "ರಚನಾತ್ಮಕ ಸಮಗ್ರತೆ ಮತ್ತು ಆಧುನಿಕ ಸೌಂದರ್ಯದೊಂದಿಗೆ ವಾಣಿಜ್ಯ ವಿನ್ಯಾಸಗಳು.",
       footerDesc:
         "ಕರ್ನಾಟಕದಾದ್ಯಂತ ಎಂಜಿನಿಯರಿಂಗ್ ಶ್ರೇಷ್ಠತೆಗೆ ಸಮರ್ಪಿತ. ಸುಸ್ಥಿರ ಮತ್ತು ಆಧುನಿಕ ನಿರ್ಮಾಣ ಅಭ್ಯಾಸಗಳ ಮೂಲಕ ಭವಿಷ್ಯವನ್ನು ರೂಪಿಸುವುದು.",
-      footerYears: "ಕರ್ನಾಟಕದಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ",
+      footerYears: "ಕರ್ನಾಟಕದಲ್ಲಿ 2002 ರಿಂದ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ",
       contactDetails: "ಸಂಪರ್ಕ ವಿವರಗಳು",
       location: "ಬೆಂಗಳೂರು ಮತ್ತು ಕರಾವಳಿ ಪ್ರದೇಶಗಳು,<br/>ಕರ್ನಾಟಕ, ಭಾರತ",
-      rights: "ಕರ್ನಾಟಕಕ್ಕಾಗಿ ನಿರ್ಮಿಸಲಾಗಿದೆ. ಎಲ್ಲ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.",
+      rights:
+        "ಕರ್ನಾಟಕಕ್ಕಾಗಿ ನಿರ್ಮಿಸಲಾಗಿದೆ. ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿಲ್ಲ. ಎಲ್ಲ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.",
       projects: [
         {
           title: "ಆಧುನಿಕ ವಿಲ್ಲಾ",
@@ -130,10 +132,11 @@
         "संरचनात्मक अखंडता और आधुनिक सौंदर्यशास्त्र के साथ अनुकूलित व्यापार लेआउट।",
       footerDesc:
         "पूरे कर्नाटक में इंजीनियरिंग उत्कृष्टता के लिए समर्पित। टिकाऊ और आधुनिक निर्माण प्रथाओं के माध्यम से भविष्य को आकार देना।",
-      footerYears: "कर्नाटक, भारत में आधारित",
+      footerYears: "कर्नाटक, भारत में 2002 से आधारित",
       contactDetails: "संपर्क विवरण",
       location: "बेंगलुरु और तटीय क्षेत्र,<br/>कर्नाटक, भारत",
-      rights: "कर्नाटक के लिए निर्मित। सर्वाधिकार सुरक्षित।",
+      rights:
+        "कर्नाटक के लिए निर्मित। कोई व्यक्तिगत डेटा एकत्र नहीं किया जाता है। सर्वाधिकार सुरक्षित।",
       projects: [
         { title: "आधुनिक विला", location: "मैसूर, कर्नाटक", img: "villa.jpg" },
         {
@@ -176,10 +179,11 @@
         "ರಚನಾತ್ಮಕ ಬೊಕ್ಕ ಆಧುನಿಕ ಸೌಂದರ್ಯದೊಟ್ಟುಗು ವಾಣಿಜ್ಯ ವಿನ್ಯಾಸಲು.",
       footerDesc:
         "ಕರ್ನಾಟಕದಾದ್ಯಂತ ಎಂಜಿನಿಯರಿಂಗ್ ಶ್ರೇಷ್ಠತೆಗ್ ಸಮರ್ಪಿತ. ಸುಸ್ಥಿರ ಬೊಕ್ಕ ಆಧುನಿಕ ನಿರ್ಮಾಣ ಅಭ್ಯಾಸೊಲೆನ ಮೂಲಕ ಭವಿಷ್ಯೊನು ರೂಪಿಸುವುನೆ.",
-      footerYears: "ಕರ್ನಾಟಕೊಡು ಕಾರ್ಯಾಚರಣೆ",
+      footerYears: "ಕರ್ನಾಟಕೊಡು 2002 ರ್ದ್ ಕಾರ್ಯಾಚರಣೆ",
       contactDetails: "ಸಂಪರ್ಕ ವಿವರೊಲು",
       location: "ಬೆಂಗಳೂರು ಬೊಕ್ಕ ಕರಾವಳಿ ಪ್ರದೇಶೊಲು,<br/>ಕರ್ನಾಟಕ, ಭಾರತ",
-      rights: "ಕರ್ನಾಟಕೊಗಾದ್ ನಿರ್ಮಾಣ. ಮಾತ ಹಕ್ಕು ಕಾಪಾಡ್‌ದ್ಂಡ್.",
+      rights:
+        "ಕರ್ನಾಟಕೊಗಾದ್ ನಿರ್ಮಾಣ. ಓವ್ವೇ ವೈಯಕ್ತಿಕ ಡೇಟಾ ಮಲ್ತ್‌ಜಿ. ಮಾತ ಹಕ್ಕು ಕಾಪಾಡ್‌ದ್ಂಡ್.",
       projects: [
         {
           title: "ಆಧುನಿಕ ವಿಲ್ಲಾ",
@@ -400,6 +404,21 @@
   </style>
 </svelte:head>
 
+{#snippet WhatsAppIcon(/** @type {string} */ className)}
+  <svg
+    class={className}
+    role="img"
+    viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg"
+    fill="currentColor"
+  >
+    <title>WhatsApp</title>
+    <path
+      d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"
+    />
+  </svg>
+{/snippet}
+
 <div class="pt-24 min-h-screen flex flex-col">
   <!-- BEGIN: Hero Orbs Background -->
   <div class="fixed inset-0 overflow-hidden pointer-events-none -z-10">
@@ -433,7 +452,7 @@
         class="solar-cta text-white px-6 py-2.5 rounded-full font-bold text-sm flex items-center gap-2 transition-all"
         href="https://wa.me/919916936115"
       >
-        <MessageCircle class="w-5 h-5" />
+        {@render WhatsAppIcon("w-5 h-5")}
         <span>{t.chatNow}</span>
       </a>
     </div>
@@ -474,7 +493,7 @@
               class="solar-cta text-white px-10 py-5 rounded-full font-bold text-xl flex items-center justify-center gap-3 transition-all"
               href="https://wa.me/919916936115"
             >
-              <MessageCircle class="w-7 h-7" />
+              {@render WhatsAppIcon("w-7 h-7")}
               {t.waInquiry}
             </a>
           </div>
@@ -685,7 +704,7 @@
                   class="solar-cta text-white font-bold px-6 py-3 sm:px-8 sm:py-4 rounded-full text-sm sm:text-base transition-all inline-block whitespace-nowrap flex items-center gap-2"
                   href="https://wa.me/919916936115"
                 >
-                  <MessageCircle class="w-4 h-4 sm:w-5 sm:h-5" />
+                  {@render WhatsAppIcon("w-4 h-4 sm:w-5 sm:h-5")}
                   {t.inquireWa}
                 </a>
               </div>
@@ -727,7 +746,7 @@
                   class="solar-cta text-white font-bold px-6 py-3 sm:px-8 sm:py-4 rounded-full text-sm sm:text-base transition-all inline-block whitespace-nowrap flex items-center gap-2"
                   href="https://wa.me/919916936115"
                 >
-                  <MessageCircle class="w-4 h-4 sm:w-5 sm:h-5" />
+                  {@render WhatsAppIcon("w-4 h-4 sm:w-5 sm:h-5")}
                   {t.inquireWa}
                 </a>
               </div>
@@ -774,19 +793,17 @@
           </p>
           <a
             class="flex items-center justify-center md:justify-start gap-4 text-slate-600 hover:text-aero-green text-lg group"
-            href="https://wa.me/919916936115"
+            href="mailto:abcdef@gmail.com"
           >
-            <MessageCircle
-              class="w-6 h-6 group-hover:scale-110 transition-transform"
-            />
-            <span>9916936115</span>
+            <Mail class="w-6 h-6 group-hover:scale-110 transition-transform" />
+            <span>abcdef@gmail.com</span>
           </a>
           <div class="pt-4">
             <a
               class="w-full flex items-center justify-center gap-2 solar-cta text-white font-bold py-5 rounded-full transition-all"
               href="https://wa.me/919916936115"
             >
-              <MessageCircle class="w-5 h-5" />
+              {@render WhatsAppIcon("w-5 h-5")}
               {t.inquireWa}
             </a>
           </div>
