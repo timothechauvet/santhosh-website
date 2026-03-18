@@ -6,7 +6,7 @@
   const translations = {
     en: {
       chatNow: "Chat now",
-      dce: "D.C.E. Diploma in Civil Engineering",
+      dce: "Diploma in Civil Engineering",
       heroDesc:
         "Crafting modern residential landmarks and high-performance commercial spaces throughout <b>Karnataka, India</b>.",
       waInquiry: "WhatsApp Inquiry",
@@ -35,9 +35,10 @@
         "Dedicated to engineering excellence across Karnataka. Shaping the future through sustainable and modern construction practices.",
       footerYears: "Based in Karnataka, India since 2002",
       contactDetails: "Contact Details",
-      location: "Bengaluru & Coastal Regions,<br/>Karnataka, India",
+      location:
+        "970/11, 10th Main Raghavendra block Srinagar 50ft Road, Bangalore - 560050",
       rights:
-        "Built for Karnataka. No personal data is collected. All rights reserved.",
+        "Built for Karnataka. No personal data is collected. All rights reserved. <br/> Registration Num: <a href='https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=IVCZwGqr5KcBbqwZcLCZ+mF0S+Glm4eZMDFJ+EFnhkE=' target='_blank' class='hover:text-aero-green underline'>UDYAM-KR-03-0663373</a>",
       projects: [
         { title: "Modern Villa", location: "Mysuru, KA", img: "villa.jpg" },
         {
@@ -83,9 +84,10 @@
         "ಕರ್ನಾಟಕದಾದ್ಯಂತ ಎಂಜಿನಿಯರಿಂಗ್ ಶ್ರೇಷ್ಠತೆಗೆ ಸಮರ್ಪಿತ. ಸುಸ್ಥಿರ ಮತ್ತು ಆಧುನಿಕ ನಿರ್ಮಾಣ ಅಭ್ಯಾಸಗಳ ಮೂಲಕ ಭವಿಷ್ಯವನ್ನು ರೂಪಿಸುವುದು.",
       footerYears: "ಕರ್ನಾಟಕದಲ್ಲಿ 2002 ರಿಂದ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ",
       contactDetails: "ಸಂಪರ್ಕ ವಿವರಗಳು",
-      location: "ಬೆಂಗಳೂರು ಮತ್ತು ಕರಾವಳಿ ಪ್ರದೇಶಗಳು,<br/>ಕರ್ನಾಟಕ, ಭಾರತ",
+      location:
+        "970/11, 10th Main Raghavendra block Srinagar 50ft Road, Bangalore - 560050",
       rights:
-        "ಕರ್ನಾಟಕಕ್ಕಾಗಿ ನಿರ್ಮಿಸಲಾಗಿದೆ. ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿಲ್ಲ. ಎಲ್ಲ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.",
+        "ಕರ್ನಾಟಕಕ್ಕಾಗಿ ನಿರ್ಮಿಸಲಾಗಿದೆ. ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿಲ್ಲ. ಎಲ್ಲ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ. <br/> ನೋಂದಣಿ ಸಂಖ್ಯೆ: <a href='https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=IVCZwGqr5KcBbqwZcLCZ+mF0S+Glm4eZMDFJ+EFnhkE=' target='_blank' class='hover:text-aero-green underline'>UDYAM-KR-03-0663373</a>",
       projects: [
         {
           title: "ಆಧುನಿಕ ವಿಲ್ಲಾ",
@@ -134,9 +136,10 @@
         "पूरे कर्नाटक में इंजीनियरिंग उत्कृष्टता के लिए समर्पित। टिकाऊ और आधुनिक निर्माण प्रथाओं के माध्यम से भविष्य को आकार देना।",
       footerYears: "कर्नाटक, भारत में 2002 से आधारित",
       contactDetails: "संपर्क विवरण",
-      location: "बेंगलुरु और तटीय क्षेत्र,<br/>कर्नाटक, भारत",
+      location:
+        "970/11, 10th Main Raghavendra block Srinagar 50ft Road, Bangalore - 560050",
       rights:
-        "कर्नाटक के लिए निर्मित। कोई व्यक्तिगत डेटा एकत्र नहीं किया जाता है। सर्वाधिकार सुरक्षित।",
+        "कर्नाटक के लिए निर्मित। कोई व्यक्तिगत डेटा एकत्र नहीं किया जाता है। सर्वाधिकार सुरक्षित। <br/> पंजीकरण संख्या: <a href='https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=IVCZwGqr5KcBbqwZcLCZ+mF0S+Glm4eZMDFJ+EFnhkE=' target='_blank' class='hover:text-aero-green underline'>UDYAM-KR-03-0663373</a>",
       projects: [
         { title: "आधुनिक विला", location: "मैसूर, कर्नाटक", img: "villa.jpg" },
         {
@@ -181,9 +184,10 @@
         "ಕರ್ನಾಟಕದಾದ್ಯಂತ ಎಂಜಿನಿಯರಿಂಗ್ ಶ್ರೇಷ್ಠತೆಗ್ ಸಮರ್ಪಿತ. ಸುಸ್ಥಿರ ಬೊಕ್ಕ ಆಧುನಿಕ ನಿರ್ಮಾಣ ಅಭ್ಯಾಸೊಲೆನ ಮೂಲಕ ಭವಿಷ್ಯೊನು ರೂಪಿಸುವುನೆ.",
       footerYears: "ಕರ್ನಾಟಕೊಡು 2002 ರ್ದ್ ಕಾರ್ಯಾಚರಣೆ",
       contactDetails: "ಸಂಪರ್ಕ ವಿವರೊಲು",
-      location: "ಬೆಂಗಳೂರು ಬೊಕ್ಕ ಕರಾವಳಿ ಪ್ರದೇಶೊಲು,<br/>ಕರ್ನಾಟಕ, ಭಾರತ",
+      location:
+        "970/11, 10th Main Raghavendra block Srinagar 50ft Road, Bangalore - 560050",
       rights:
-        "ಕರ್ನಾಟಕೊಗಾದ್ ನಿರ್ಮಾಣ. ಓವ್ವೇ ವೈಯಕ್ತಿಕ ಡೇಟಾ ಮಲ್ತ್‌ಜಿ. ಮಾತ ಹಕ್ಕು ಕಾಪಾಡ್‌ದ್ಂಡ್.",
+        "ಕರ್ನಾಟಕೊಗಾದ್ ನಿರ್ಮಾಣ. ಓವ್ವೇ ವೈಯಕ್ತಿಕ ಡೇಟಾ ಮಲ್ತ್‌ಜಿ. ಮಾತ ಹಕ್ಕು ಕಾಪಾಡ್‌ದ್ಂಡ್. <br/> ನೋಂದಣಿ ಸಂಖ್ಯೆ: <a href='https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=IVCZwGqr5KcBbqwZcLCZ+mF0S+Glm4eZMDFJ+EFnhkE=' target='_blank' class='hover:text-aero-green underline'>UDYAM-KR-03-0663373</a>",
       projects: [
         {
           title: "ಆಧುನಿಕ ವಿಲ್ಲಾ",
@@ -438,10 +442,14 @@
     <div class="container mx-auto px-6 h-20 flex justify-between items-center">
       <div class="flex items-center gap-3">
         <div
-          class="w-10 h-10 bg-aero-green-gradient rounded-xl flex items-center justify-center p-1 shadow-lg relative overflow-hidden group"
+          class="w-10 h-10 bg-white rounded-xl flex items-center justify-center p-1 shadow-lg relative overflow-hidden group"
         >
           <div class="absolute inset-0 icon-gloss opacity-40"></div>
-          <span class="text-white font-black text-xl relative z-10">GV</span>
+          <img
+            src="/web-app-manifest-512x512.png"
+            alt="GV Logo"
+            class="w-full h-full object-contain relative z-10"
+          />
         </div>
         <span
           class="font-bold text-xl tracking-tight text-aero-dark hidden sm:block"
@@ -750,12 +758,18 @@
       <div class="space-y-8">
         <div class="flex items-center justify-center md:justify-start gap-3">
           <div
-            class="w-12 h-12 bg-aero-green-gradient rounded-xl flex items-center justify-center p-1 shadow-lg relative overflow-hidden"
+            class="w-12 h-12 bg-white rounded-xl flex items-center justify-center p-1 shadow-lg relative overflow-hidden"
           >
             <div class="absolute inset-0 icon-gloss opacity-40"></div>
-            <span class="text-white font-black text-2xl relative z-10">GV</span>
+            <img
+              src="/web-app-manifest-512x512.png"
+              alt="GV Logo"
+              class="w-full h-full object-contain relative z-10"
+            />
           </div>
-          <span class="font-bold text-2xl text-aero-dark">Golden Village</span>
+          <span class="font-bold text-2xl text-aero-dark"
+            >Golden Village For Image</span
+          >
         </div>
         <p class="text-slate-500 leading-relaxed text-lg max-w-md">
           {t.footerDesc}
@@ -775,10 +789,10 @@
           </p>
           <a
             class="flex items-center justify-center md:justify-start gap-4 text-slate-600 hover:text-aero-green text-lg group"
-            href="mailto:abcdef@gmail.com"
+            href="mailto:goldenvillageforimage@gmail.com"
           >
             <Mail class="w-6 h-6 group-hover:scale-110 transition-transform" />
-            <span>abcdef@gmail.com</span>
+            <span>goldenvillageforimage@gmail.com</span>
           </a>
           <div class="pt-4">
             <a
@@ -795,7 +809,7 @@
     <div
       class="container mx-auto mt-20 pt-10 border-t border-slate-200/50 text-center text-slate-400 text-sm"
     >
-      © {new Date().getFullYear()} Santhosh D. DCE. {t.rights}
+      © {new Date().getFullYear()} Santhosh .D {@html t.rights}
     </div>
   </footer>
 
@@ -825,7 +839,7 @@
           class="w-full text-left px-5 py-3 {currentLang === 'hi'
             ? 'bg-aero-green/20'
             : ''} text-slate-700 hover:bg-aero-green/10 font-semibold transition-colors border-b border-slate-100/50"
-          >हिंदी</button
+          >हिन्दी</button
         >
         <button
           on:click={() => selectLang("tcy")}
@@ -837,15 +851,14 @@
       </div>
     {/if}
     <button
-      class="w-16 h-16 rounded-full bg-aero-green-gradient flex items-center justify-center text-white shadow-2xl border border-white/40 relative overflow-hidden active:scale-95 transition-transform"
-      id="lang-fab"
       on:click={toggleLangMenu}
+      class="p-4 bg-white/90 backdrop-blur-xl border border-white/50 rounded-full shadow-2xl hover:scale-110 active:scale-95 transition-all text-slate-700"
     >
-      <div class="absolute inset-0 icon-gloss opacity-40"></div>
-      <span class="material-symbols-outlined text-3xl font-light relative z-10"
-        >language</span
+      <span
+        class="material-symbols-outlined flex items-center justify-center text-3xl"
       >
+        language
+      </span>
     </button>
   </div>
-  <!-- END: Floating Language Toggle -->
 </div>
