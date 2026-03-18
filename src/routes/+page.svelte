@@ -283,11 +283,18 @@
         rgba(255, 255, 255, 0.3) 100%
       );
       backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
       border-radius: 24px;
       border: 1px solid rgba(255, 255, 255, 0.8);
       box-shadow:
         0 10px 25px -5px rgba(0, 0, 0, 0.05),
         inset 0 2px 4px rgba(255, 255, 255, 0.9);
+      will-change: transform, opacity;
+      /* Only transition specific properties to keep the glossy background stable */
+      transition:
+        transform 0.5s cubic-bezier(0.165, 0.84, 0.44, 1),
+        opacity 0.5s linear,
+        box-shadow 0.5s ease;
     }
 
     .hero-orb {
@@ -299,7 +306,9 @@
 
     /* Card Slider Animations */
     #project-slider .project-card {
-      transition: all 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+      transition:
+        transform 0.8s cubic-bezier(0.4, 0, 0.2, 1),
+        opacity 0.8s cubic-bezier(0.4, 0, 0.2, 1);
       position: absolute;
       width: 100%;
       height: 100%;
@@ -446,7 +455,7 @@
         >
           <div class="absolute inset-0 icon-gloss opacity-40"></div>
           <img
-            src="/web-app-manifest-512x512.png"
+            src="{base}/web-app-manifest-512x512.png"
             alt="GV Logo"
             class="w-full h-full object-contain relative z-10"
           />
@@ -550,7 +559,7 @@
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
         <!-- Service 1 -->
         <div
-          class="service-card glossy-card p-10 text-center group hover:-translate-y-3 transition-all duration-500 hover:shadow-2xl hover:shadow-cyan-200/50 hover:bg-white/60"
+          class="service-card glossy-card p-10 text-center group hover:-translate-y-3 transition-[transform,opacity,box-shadow] duration-500 hover:shadow-2xl hover:shadow-cyan-200/50"
         >
           <div
             class="w-24 h-24 mx-auto mb-8 flex items-center justify-center overflow-visible"
@@ -579,7 +588,7 @@
         </div>
         <!-- Service 2 -->
         <div
-          class="service-card glossy-card p-10 text-center group hover:-translate-y-3 transition-all duration-500 hover:shadow-2xl hover:shadow-blue-200/50 hover:bg-white/60"
+          class="service-card glossy-card p-10 text-center group hover:-translate-y-3 transition-[transform,opacity,box-shadow] duration-500 hover:shadow-2xl hover:shadow-blue-200/50"
         >
           <div
             class="w-24 h-24 mx-auto mb-8 flex items-center justify-center overflow-visible"
@@ -608,7 +617,7 @@
         </div>
         <!-- Service 3 -->
         <div
-          class="service-card glossy-card p-10 text-center group hover:-translate-y-3 transition-all duration-500 hover:shadow-2xl hover:shadow-yellow-200/50 hover:bg-white/60"
+          class="service-card glossy-card p-10 text-center group hover:-translate-y-3 transition-[transform,opacity,box-shadow] duration-500 hover:shadow-2xl hover:shadow-yellow-200/50"
         >
           <div
             class="w-24 h-24 mx-auto mb-8 flex items-center justify-center overflow-visible"
@@ -637,7 +646,7 @@
         </div>
         <!-- Service 4 -->
         <div
-          class="service-card glossy-card p-10 text-center group hover:-translate-y-3 transition-all duration-500 hover:shadow-2xl hover:shadow-red-200/50 hover:bg-white/60"
+          class="service-card glossy-card p-10 text-center group hover:-translate-y-3 transition-[transform,opacity,box-shadow] duration-500 hover:shadow-2xl hover:shadow-red-200/50"
         >
           <div
             class="w-24 h-24 mx-auto mb-8 flex items-center justify-center overflow-visible"
@@ -762,7 +771,7 @@
           >
             <div class="absolute inset-0 icon-gloss opacity-40"></div>
             <img
-              src="/web-app-manifest-512x512.png"
+              src="{base}/web-app-manifest-512x512.png"
               alt="GV Logo"
               class="w-full h-full object-contain relative z-10"
             />
