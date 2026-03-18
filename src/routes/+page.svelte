@@ -699,15 +699,6 @@
               >
                 {t.dreamHomeDesc}
               </p>
-              <div class="flex">
-                <a
-                  class="solar-cta text-white font-bold px-6 py-3 sm:px-8 sm:py-4 rounded-full text-sm sm:text-base transition-all inline-block whitespace-nowrap flex items-center gap-2"
-                  href="https://wa.me/919916936115"
-                >
-                  {@render WhatsAppIcon("w-4 h-4 sm:w-5 sm:h-5")}
-                  {t.inquireWa}
-                </a>
-              </div>
             </div>
           </div>
         </div>
@@ -741,15 +732,6 @@
               >
                 {t.commercialDesc}
               </p>
-              <div class="flex">
-                <a
-                  class="solar-cta text-white font-bold px-6 py-3 sm:px-8 sm:py-4 rounded-full text-sm sm:text-base transition-all inline-block whitespace-nowrap flex items-center gap-2"
-                  href="https://wa.me/919916936115"
-                >
-                  {@render WhatsAppIcon("w-4 h-4 sm:w-5 sm:h-5")}
-                  {t.inquireWa}
-                </a>
-              </div>
             </div>
           </div>
         </div>
