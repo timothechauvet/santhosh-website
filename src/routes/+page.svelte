@@ -370,7 +370,8 @@
       --card-shadow-2: rgba(255, 255, 255, 0.54);
     }
 
-    .card-hidden, .card-exit {
+    .card-hidden,
+    .card-exit {
       z-index: 10;
       --card-opacity: 0;
       --card-blur: 0px;
@@ -520,7 +521,7 @@
         </div>
         <span
           class="font-bold text-xl tracking-tight text-aero-dark hidden sm:block"
-          >Santhosh .D, Civil Engineer</span
+          >Golden Village For Image</span
         >
       </div>
       <a
