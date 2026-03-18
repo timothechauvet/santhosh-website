@@ -307,35 +307,93 @@
     /* Card Slider Animations */
     #project-slider .project-card {
       transition:
-        transform 0.8s cubic-bezier(0.4, 0, 0.2, 1),
-        opacity 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+        top 0.8s cubic-bezier(0.25, 1, 0.5, 1),
+        left 0.8s cubic-bezier(0.25, 1, 0.5, 1),
+        width 0.8s cubic-bezier(0.25, 1, 0.5, 1),
+        height 0.8s cubic-bezier(0.25, 1, 0.5, 1);
       position: absolute;
-      width: 100%;
-      height: 100%;
+      transform: none !important; /* Force off transform to preserve backdrop-filter */
+    }
+
+    #project-slider .glossy-card {
+      background: linear-gradient(
+        135deg,
+        var(--card-bg-start, rgba(255, 255, 255, 0.7)) 0%,
+        var(--card-bg-end, rgba(255, 255, 255, 0.3)) 100%
+      );
+      backdrop-filter: blur(var(--card-blur, 8px));
+      -webkit-backdrop-filter: blur(var(--card-blur, 8px));
+      border: 1px solid var(--card-border, rgba(255, 255, 255, 0.8));
+      box-shadow:
+        0 10px 25px -5px var(--card-shadow-1, rgba(0, 0, 0, 0.05)),
+        inset 0 2px 4px var(--card-shadow-2, rgba(255, 255, 255, 0.9));
+      transition:
+        background 0.8s cubic-bezier(0.25, 1, 0.5, 1),
+        backdrop-filter 0.8s cubic-bezier(0.25, 1, 0.5, 1),
+        -webkit-backdrop-filter 0.8s cubic-bezier(0.25, 1, 0.5, 1),
+        border-color 0.8s cubic-bezier(0.25, 1, 0.5, 1),
+        box-shadow 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+    }
+
+    #project-slider .glossy-card > * {
+      opacity: var(--card-opacity, 1);
+      transition: opacity 0.8s cubic-bezier(0.25, 1, 0.5, 1);
     }
 
     .card-active {
-      transform: translateY(0) scale(1);
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
       z-index: 30;
-      opacity: 1;
+      --card-opacity: 1;
+      --card-blur: 8px;
+      --card-bg-start: rgba(255, 255, 255, 0.7);
+      --card-bg-end: rgba(255, 255, 255, 0.3);
+      --card-border: rgba(255, 255, 255, 0.8);
+      --card-shadow-1: rgba(0, 0, 0, 0.05);
+      --card-shadow-2: rgba(255, 255, 255, 0.9);
     }
 
     .card-next {
-      transform: translateY(40px) scale(0.9) rotateX(-5deg);
+      top: 40px;
+      left: 5%;
+      width: 90%;
+      height: 90%;
       z-index: 20;
-      opacity: 0.6;
+      --card-opacity: 0.6;
+      --card-blur: 4.8px;
+      --card-bg-start: rgba(255, 255, 255, 0.42);
+      --card-bg-end: rgba(255, 255, 255, 0.18);
+      --card-border: rgba(255, 255, 255, 0.48);
+      --card-shadow-1: rgba(0, 0, 0, 0.03);
+      --card-shadow-2: rgba(255, 255, 255, 0.54);
+    }
+
+    .card-hidden, .card-exit {
+      z-index: 10;
+      --card-opacity: 0;
+      --card-blur: 0px;
+      --card-bg-start: rgba(255, 255, 255, 0);
+      --card-bg-end: rgba(255, 255, 255, 0);
+      --card-border: rgba(255, 255, 255, 0);
+      --card-shadow-1: rgba(0, 0, 0, 0);
+      --card-shadow-2: rgba(255, 255, 255, 0);
     }
 
     .card-hidden {
-      transform: translateY(100px) scale(0.8);
-      z-index: 10;
-      opacity: 0;
+      top: 100px;
+      left: 10%;
+      width: 80%;
+      height: 80%;
     }
 
     .card-exit {
-      transform: translateY(200px) scale(0.8);
+      top: 200px;
+      left: 10%;
+      width: 80%;
+      height: 80%;
       z-index: 0;
-      opacity: 0;
     }
 
     /* Icon Gloss */
