@@ -844,10 +844,10 @@
           </p>
           <a
             class="flex items-center justify-center md:justify-start gap-4 text-slate-600 hover:text-aero-green text-lg group"
-            href="mailto:goldenvillageforimage@gmail.com"
+            href="mailto:contact@goldenvillage.in"
           >
             <Mail class="w-6 h-6 group-hover:scale-110 transition-transform" />
-            <span>goldenvillageforimage@gmail.com</span>
+            <span>contact@goldenvillage.in</span>
           </a>
           <div class="pt-4">
             <a
