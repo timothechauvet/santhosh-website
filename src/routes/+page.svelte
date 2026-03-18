@@ -492,7 +492,6 @@
 {/snippet}
 
 <div class="pt-24 min-h-screen flex flex-col">
-  <!-- BEGIN: Hero Orbs Background -->
   <div class="fixed inset-0 overflow-hidden pointer-events-none -z-10">
     <div
       class="hero-orb bg-aero-green w-[500px] h-[500px] -top-48 -left-48"
@@ -501,9 +500,7 @@
       class="hero-orb bg-blue-300 w-[400px] h-[400px] top-1/2 -right-24"
     ></div>
   </div>
-  <!-- END: Hero Orbs Background -->
 
-  <!-- BEGIN: Sticky Header -->
   <header
     class="fixed top-0 left-0 right-0 bg-white/60 backdrop-blur-xl border-b border-white/40 z-[100] glossy-surface"
   >
@@ -533,10 +530,8 @@
       </a>
     </div>
   </header>
-  <!-- END: Sticky Header -->
 
   <main class="flex-grow">
-    <!-- BEGIN: Hero Section -->
     <section class="container mx-auto px-6 py-12 md:py-32">
       <div
         class="flex flex-col lg:flex-row items-center justify-between gap-20 lg:gap-32"
@@ -601,9 +596,7 @@
         </div>
       </div>
     </section>
-    <!-- END: Hero Section -->
 
-    <!-- BEGIN: Services Grid -->
     <section
       class="container mx-auto px-6 py-20 bg-white/30 backdrop-blur-sm rounded-[50px] my-10 border border-white/40"
     >
@@ -616,7 +609,6 @@
         ></div>
       </div>
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
-        <!-- Service 1 -->
         <div
           class="service-card glossy-card p-10 text-center group hover:-translate-y-3 transition-[transform,opacity,box-shadow] duration-500 hover:shadow-2xl hover:shadow-cyan-200/50"
         >
@@ -645,7 +637,7 @@
             {t.consultingDesc}
           </p>
         </div>
-        <!-- Service 2 -->
+
         <div
           class="service-card glossy-card p-10 text-center group hover:-translate-y-3 transition-[transform,opacity,box-shadow] duration-500 hover:shadow-2xl hover:shadow-blue-200/50"
         >
@@ -674,7 +666,7 @@
             {t.planningDesc}
           </p>
         </div>
-        <!-- Service 3 -->
+
         <div
           class="service-card glossy-card p-10 text-center group hover:-translate-y-3 transition-[transform,opacity,box-shadow] duration-500 hover:shadow-2xl hover:shadow-yellow-200/50"
         >
@@ -703,7 +695,7 @@
             {t.estimationDesc}
           </p>
         </div>
-        <!-- Service 4 -->
+
         <div
           class="service-card glossy-card p-10 text-center group hover:-translate-y-3 transition-[transform,opacity,box-shadow] duration-500 hover:shadow-2xl hover:shadow-red-200/50"
         >
@@ -734,9 +726,7 @@
         </div>
       </div>
     </section>
-    <!-- END: Services Grid -->
 
-    <!-- BEGIN: Mid-Section Pathways -->
     <section class="container mx-auto px-6 py-20 sm:py-32">
       <div class="text-center mb-16">
         <h2 class="text-4xl md:text-5xl font-extrabold text-slate-900 mb-4">
@@ -747,7 +737,6 @@
         ></div>
       </div>
       <div class="grid md:grid-cols-2 gap-8 lg:gap-12 max-w-6xl mx-auto">
-        <!-- Residential Card -->
         <div
           class="relative overflow-hidden rounded-[40px] group aspect-[4/5] sm:aspect-square md:aspect-[4/5] lg:aspect-[4/3] glossy-surface p-2 shadow-xl"
         >
@@ -778,7 +767,7 @@
             </div>
           </div>
         </div>
-        <!-- Commercial Card -->
+
         <div
           class="relative overflow-hidden rounded-[40px] group aspect-[4/5] sm:aspect-square md:aspect-[4/5] lg:aspect-[4/3] glossy-surface p-2 shadow-xl"
         >
@@ -813,10 +802,8 @@
         </div>
       </div>
     </section>
-    <!-- END: Mid-Section Pathways -->
   </main>
 
-  <!-- BEGIN: Footer -->
   <footer
     class="bg-white/50 border-t border-white py-20 px-6 md:px-12 mt-20 glossy-surface mt-auto"
   >
@@ -881,7 +868,6 @@
     </div>
   </footer>
 
-  <!-- BEGIN: Floating Language Toggle -->
   <div class="fixed bottom-6 right-6 z-[200] flex flex-col items-end gap-3">
     {#if isLangMenuOpen}
       <div
