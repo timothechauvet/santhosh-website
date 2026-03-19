@@ -6,6 +6,10 @@
   const translations = {
     en: {
       chatNow: "Chat now",
+      home: "Home",
+      aboutGvfi: "About GVFI",
+      quickLinks: "Quick Links",
+      followUs: "Follow Us",
       dce: "Diploma in Civil Engineering",
       heroDesc:
         "Crafting modern residential landmarks and high-performance commercial spaces throughout <b>Karnataka, India</b>.",
@@ -84,6 +88,10 @@
     },
     kn: {
       chatNow: "ಈಗ ಚಾಟ್ ಮಾಡಿ",
+      home: "ಮುಖಪುಟ",
+      aboutGvfi: "GVFI ಬಗ್ಗೆ",
+      quickLinks: "ತ್ವರಿತ ಕೊಂಡಿಗಳು",
+      followUs: "ನಮ್ಮನ್ನು ಅನುಸರಿಸಿ",
       dce: "ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್‌ ಡಿಪ್ಲೊಮಾ",
       heroDesc:
         "<b>ಕರ್ನಾಟಕದಾದ್ಯಂತ</b> ಆಧುನಿಕ ವಸತಿ ಮತ್ತು ವಾಣಿಜ್ಯ ಕಟ್ಟಡಗಳ ನಿರ್ಮಾಣ.",
@@ -166,6 +174,10 @@
     },
     hi: {
       chatNow: "अभी चैट करें",
+      home: "होम",
+      aboutGvfi: "GVFI के बारे में",
+      quickLinks: "त्वरित लिंक",
+      followUs: "हमारा अनुसरण करें",
       dce: "सिविल इंजीनियरिंग में डिप्लोमा",
       heroDesc:
         "<b>कर्नाटक, भारत</b> भर में आधुनिक आवासीय लैंडमार्क और उच्च प्रदर्शन वाले वाणिज्यिक स्थानों का निर्माण।",
@@ -243,6 +255,10 @@
     },
     tcy: {
       chatNow: "ಇತ್ತೆ ಚಾಟ್ ಮಲ್ಪುಲೆ",
+      home: "ಮುಖಪುಟ",
+      aboutGvfi: "GVFI ಬಗ್ಗೆ",
+      quickLinks: "ತ್ವರಿತ ಕೊಂಡಿಲು",
+      followUs: "ನಮನ್ ಅನುಸರಿಸಾಲೆ",
       dce: "ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್‌ ಡಿಪ್ಲೊಮಾ",
       heroDesc:
         "<b>ಕರ್ನಾಟಕದಾದ್ಯಂತ</b> ಆಧುನಿಕ ವಸತಿ ಬೊಕ್ಕ ವಾಣಿಜ್ಯ ಕಟ್ಟಡೊಲೆನ ನಿರ್ಮಾಣ.",
@@ -658,12 +674,17 @@
         >
           <div class="space-y-4">
             <h1
-              class="text-5xl md:text-8xl font-extrabold text-slate-900 leading-tight"
+              class="text-4xl md:text-6xl font-extrabold text-slate-900 leading-tight"
             >
-              Santhosh <span class="text-aero-green">.D</span>
+              Golden Village <span class="text-aero-green">For Image</span>
             </h1>
+            <h2
+              class="text-2xl md:text-3xl font-bold text-slate-700 mt-2"
+            >
+              Santhosh .D
+            </h2>
             <p
-              class="text-xl md:text-2xl font-bold text-aero-dark/60 tracking-widest uppercase"
+              class="text-xl md:text-2xl font-bold text-aero-dark/60 tracking-widest uppercase mt-4"
             >
               {t.dce}
             </p>
@@ -845,7 +866,7 @@
       </div>
     </section>
 
-    <section id="geo-content" class="container mx-auto px-6 py-20 bg-white/30 backdrop-blur-sm rounded-[50px] my-10 border border-white/40">
+    <section id="geo" class="container mx-auto px-6 py-20 bg-white/30 backdrop-blur-sm rounded-[50px] my-10 border border-white/40">
       <div class="max-w-5xl mx-auto space-y-20">
         
         <article class="space-y-6">
@@ -1042,9 +1063,9 @@
     class="bg-white/50 border-t border-white py-20 px-6 md:px-12 mt-20 glossy-surface mt-auto"
   >
     <div
-      class="container mx-auto grid md:grid-cols-2 gap-16 text-center md:text-left"
+      class="container mx-auto grid md:grid-cols-2 lg:grid-cols-4 gap-12 text-center md:text-left"
     >
-      <div class="space-y-8">
+      <div class="space-y-6">
         <div class="flex items-center justify-center md:justify-start gap-3">
           <div
             class="w-12 h-12 bg-white rounded-xl flex items-center justify-center p-1 shadow-lg relative overflow-hidden"
@@ -1056,42 +1077,89 @@
               class="w-full h-full object-contain relative z-10"
             />
           </div>
-          <span class="font-bold text-2xl text-aero-dark"
+          <span class="font-bold text-xl text-aero-dark"
             >Golden Village For Image</span
           >
         </div>
-        <p class="text-slate-500 leading-relaxed text-lg max-w-md">
+        <p class="text-slate-500 leading-relaxed text-base max-w-xs mx-auto md:mx-0">
           {t.footerDesc}
         </p>
-        <p class="text-sm font-bold text-aero-green uppercase tracking-[0.2em]">
+        <p class="text-xs font-bold text-aero-green uppercase tracking-[0.2em]">
           {t.footerYears}
         </p>
       </div>
-      <div class="space-y-8">
+
+      <div class="space-y-6">
+        <h4 class="font-bold text-xl text-slate-800">{t.quickLinks}</h4>
+        <nav class="flex flex-col gap-3 text-slate-600 font-medium">
+          <a href="#hero" class="hover:text-aero-green transition-colors">{t.home}</a>
+          <a href="#services" class="hover:text-aero-green transition-colors">{t.servicesTitle}</a>
+          <a href="#geo" class="hover:text-aero-green transition-colors">{t.aboutGvfi}</a>
+          <a href="#projects" class="hover:text-aero-green transition-colors">{t.buildIdea}</a>
+        </nav>
+      </div>
+
+      <div class="space-y-6">
         <h4 class="font-bold text-xl text-slate-800">{t.contactDetails}</h4>
-        <div class="space-y-6">
+        <div class="space-y-5">
           <p
-            class="flex items-start justify-center md:justify-start gap-4 text-slate-600 text-lg"
+            class="flex items-start justify-center md:justify-start gap-3 text-slate-600 text-base"
           >
-            <span class="text-2xl">📍</span>
+            <span class="text-xl">📍</span>
             <span>{@html t.location}</span>
           </p>
           <a
-            class="flex items-center justify-center md:justify-start gap-4 text-slate-600 hover:text-aero-green text-lg group"
+            class="flex items-center justify-center md:justify-start gap-3 text-slate-600 hover:text-aero-green text-base group"
             href="mailto:contact@goldenvillage.in"
           >
-            <Mail class="w-6 h-6 group-hover:scale-110 transition-transform" />
+            <Mail class="w-5 h-5 group-hover:scale-110 transition-transform" />
             <span>contact@goldenvillage.in</span>
           </a>
-          <div class="pt-4">
+          <div class="pt-2">
             <a
-              class="w-full flex items-center justify-center gap-2 solar-cta text-white font-bold py-5 rounded-full transition-all"
+              class="w-full max-w-[200px] mx-auto md:mx-0 flex items-center justify-center gap-2 solar-cta text-white font-bold py-3 px-4 text-sm rounded-full transition-all"
               href="https://wa.me/919916936115"
             >
-              {@render WhatsAppIcon("w-5 h-5")}
+              {@render WhatsAppIcon("w-4 h-4")}
               {t.inquireWa}
             </a>
           </div>
+        </div>
+      </div>
+
+      <div class="space-y-6">
+        <h4 class="font-bold text-xl text-slate-800">{t.followUs}</h4>
+        <div class="flex gap-4 justify-center md:justify-start">
+          <a
+            href="https://facebook.com/goldenvillage"
+            class="w-10 h-10 rounded-full bg-slate-100 flex items-center justify-center text-slate-500 hover:bg-blue-600 hover:text-white transition-all shadow-sm group"
+            aria-label="Facebook"
+            target="_blank" rel="noopener noreferrer"
+          >
+            <svg class="w-5 h-5 group-hover:scale-110 transition-transform" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path fill-rule="evenodd" d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z" clip-rule="evenodd" />
+            </svg>
+          </a>
+          <a
+            href="https://instagram.com/goldenvillage"
+            class="w-10 h-10 rounded-full bg-slate-100 flex items-center justify-center text-slate-500 hover:bg-pink-600 hover:text-white transition-all shadow-sm group"
+            aria-label="Instagram"
+            target="_blank" rel="noopener noreferrer"
+          >
+             <svg class="w-5 h-5 group-hover:scale-110 transition-transform" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path fill-rule="evenodd" d="M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 011.772 1.153 4.902 4.902 0 011.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123v.08c0 2.643-.012 2.987-.06 4.043-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 01-1.153 1.772 4.902 4.902 0 01-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06h-.08c-2.643 0-2.987-.012-4.043-.06-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 01-1.772-1.153 4.902 4.902 0 01-1.153-1.772c-.247-.636-.416-1.363-.465-2.427-.047-1.024-.06-1.379-.06-3.808v-.63c0-2.43.013-2.784.06-3.808.049-1.064.218-1.791.465-2.427a4.902 4.902 0 011.153-1.772A4.902 4.902 0 015.45 2.525c.636-.247 1.363-.416 2.427-.465C8.901 2.013 9.256 2 11.685 2h.63zm-.081 1.802h-.468c-2.456 0-2.784.011-3.807.058-.975.045-1.504.207-1.857.344-.467.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.047 1.023-.058 1.351-.058 3.807v.468c0 2.456.011 2.784.058 3.807.045.975.207 1.504.344 1.857.182.466.399.8.748 1.15.35.35.683.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058h.08c2.597 0 2.917-.01 3.96-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.683.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041v-.08c0-2.597-.01-2.917-.058-3.96-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 00-.748-1.15 3.098 3.098 0 00-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.023-.047-1.351-.058-3.807-.058zM12 6.865a5.135 5.135 0 110 10.27 5.135 5.135 0 010-10.27zm0 1.802a3.333 3.333 0 100 6.666 3.333 3.333 0 000-6.666zm5.338-3.205a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4z" clip-rule="evenodd" />
+            </svg>
+          </a>
+          <a
+            href="https://linkedin.com/company/goldenvillage"
+            class="w-10 h-10 rounded-full bg-slate-100 flex items-center justify-center text-slate-500 hover:bg-blue-700 hover:text-white transition-all shadow-sm group"
+            aria-label="LinkedIn"
+            target="_blank" rel="noopener noreferrer"
+          >
+            <svg class="w-5 h-5 group-hover:scale-110 transition-transform" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path fill-rule="evenodd" d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" clip-rule="evenodd" />
+            </svg>
+          </a>
         </div>
       </div>
     </div>
