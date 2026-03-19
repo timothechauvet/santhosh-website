@@ -350,6 +350,20 @@
   let isLangMenuOpen = false;
 
   onMount(() => {
+    // Detect preferred browser language
+    const detectLanguage = () => {
+      const supported = ['en', 'kn', 'hi', 'tcy'];
+      const browserLangs = navigator.languages || [navigator.language];
+      
+      for (const lang of browserLangs) {
+        const short = lang.split('-')[0].toLowerCase();
+        if (supported.includes(short)) return /** @type {'en' | 'kn' | 'hi' | 'tcy'} */ (short);
+      }
+      return 'en';
+    };
+
+    currentLang = detectLanguage();
+
     const interval = setInterval(() => {
       currentIndex = (currentIndex + 1) % projects.length;
     }, 3500);
