@@ -505,7 +505,7 @@
     class="fixed top-0 left-0 right-0 bg-white/60 backdrop-blur-xl border-b border-white/40 z-[100] glossy-surface"
   >
     <div class="container mx-auto px-6 h-20 flex justify-between items-center">
-      <div class="flex items-center gap-3">
+      <a href="#hero" class="flex items-center gap-3 hover:opacity-80 transition-opacity">
         <div
           class="w-10 h-10 bg-white rounded-xl flex items-center justify-center p-1 shadow-lg relative overflow-hidden group"
         >
@@ -520,7 +520,7 @@
           class="font-bold text-xl tracking-tight text-aero-dark hidden sm:block"
           >Golden Village For Image</span
         >
-      </div>
+      </a>
       <a
         class="solar-cta text-white px-6 py-2.5 rounded-full font-bold text-sm flex items-center gap-2 transition-all"
         href="https://wa.me/919916936115"
@@ -532,7 +532,7 @@
   </header>
 
   <main class="flex-grow">
-    <section class="container mx-auto px-6 py-12 md:py-32">
+    <section id="hero" class="container mx-auto px-6 py-12 md:py-32">
       <div
         class="flex flex-col lg:flex-row items-center justify-between gap-20 lg:gap-32"
       >
@@ -597,13 +597,15 @@
       </div>
     </section>
 
-    <section
+    <section id="services"
       class="container mx-auto px-6 py-20 bg-white/30 backdrop-blur-sm rounded-[50px] my-10 border border-white/40"
     >
       <div class="text-center mb-16">
-        <h2 class="text-4xl md:text-5xl font-extrabold text-slate-900 mb-4">
-          {t.servicesTitle}
-        </h2>
+        <a href="#services" class="inline-block hover:opacity-80 transition-opacity">
+          <h2 class="text-4xl md:text-5xl font-extrabold text-slate-900 mb-4">
+            {t.servicesTitle}
+          </h2>
+        </a>
         <div
           class="w-24 h-2 bg-aero-green-gradient mx-auto rounded-full shadow-sm"
         ></div>
@@ -727,11 +729,13 @@
       </div>
     </section>
 
-    <section class="container mx-auto px-6 py-20 sm:py-32">
+    <section id="projects" class="container mx-auto px-6 py-20 sm:py-32">
       <div class="text-center mb-16">
-        <h2 class="text-4xl md:text-5xl font-extrabold text-slate-900 mb-4">
-          {t.buildIdea}
-        </h2>
+        <a href="#projects" class="inline-block hover:opacity-80 transition-opacity">
+          <h2 class="text-4xl md:text-5xl font-extrabold text-slate-900 mb-4">
+            {t.buildIdea}
+          </h2>
+        </a>
         <div
           class="w-24 h-2 bg-aero-green-gradient mx-auto rounded-full shadow-sm"
         ></div>
