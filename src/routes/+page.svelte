@@ -652,16 +652,11 @@
   >
     <div class="container mx-auto px-6 h-20 flex justify-between items-center">
       <a href="#hero" class="flex items-center gap-3 hover:opacity-80 transition-opacity">
-        <div
-          class="w-10 h-10 bg-white rounded-xl flex items-center justify-center p-1 shadow-lg relative overflow-hidden group"
-        >
-          <div class="absolute inset-0 icon-gloss opacity-40"></div>
-          <img
-            src="{base}/web-app-manifest-512x512.png"
-            alt="GV Logo"
-            class="w-full h-full object-contain relative z-10"
-          />
-        </div>
+        <img
+          src="{base}/web-app-manifest-512x512.png"
+          alt="GV Logo"
+          class="w-16 h-16 object-contain"
+        />
         <span
           class="font-bold text-xl tracking-tight text-aero-dark hidden sm:block"
           >Golden Village For Image</span
@@ -1081,16 +1076,11 @@
     >
       <div class="space-y-6">
         <div class="flex items-center justify-center md:justify-start gap-3">
-          <div
-            class="w-12 h-12 bg-white rounded-xl flex items-center justify-center p-1 shadow-lg relative overflow-hidden"
-          >
-            <div class="absolute inset-0 icon-gloss opacity-40"></div>
-            <img
-              src="{base}/web-app-manifest-512x512.png"
-              alt="GV Logo"
-              class="w-full h-full object-contain relative z-10"
-            />
-          </div>
+          <img
+            src="{base}/web-app-manifest-512x512.png"
+            alt="GV Logo"
+            class="w-[72px] h-[72px] object-contain"
+          />
           <span class="font-bold text-xl text-aero-dark"
             >Golden Village For Image</span
           >
