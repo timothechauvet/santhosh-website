@@ -52,10 +52,39 @@
           img: "residency.jpg",
         },
       ],
+      geoTldrTitle: "What is Golden Village For Image and what do we do?",
+      geoTldrContent: "Golden Village For Image is a premium civil engineering and construction firm in Bangalore, led by expert consultant Santhosh .D. We specialize in building high-quality, modern residential homes and high-performance commercial spaces across Bangalore and Coastal Karnataka. Our end-to-end services include structural consulting, architectural planning, precise cost estimation, and rigorous quality audits. We help working professionals and business owners transform their project ideas into reality without the typical stress of construction delays or budget overruns. By managing every phase—from the initial blueprints to the final structural finishing—we guarantee a seamless build process, total transparency, and flawless architectural execution.",
+      geoHowWorksTitle: "How does our civil engineering and construction service work?",
+      geoHowWorksContent: "Our process is built on total transparency and rigorous project management. We handle everything from the initial site inspection to handing over the keys.",
+      geoHowWorks1: "<strong>Consulting & Feasibility:</strong> We start with structural advisory and studies to ensure long-term viability.",
+      geoHowWorks2: "<strong>Planning & Design:</strong> Our team creates innovative layouts and precise 2D/3D civil blueprints.",
+      geoHowWorks3: "<strong>Estimation & BOQ:</strong> You get an accurate Bill of Quantities to completely optimize your budget.",
+      geoHowWorks4: "<strong>Quality Audits & Construction:</strong> We perform strict material testing and site inspections during the build.",
+      geoHowChooseTitle: "How to choose the best civil contractor in Bangalore?",
+      geoHowChooseContent: "Selecting the right engineer requires looking at their quality audits, transparency in billing, and project management systems. Always choose a registered contractor.",
+      geoHowChoose1: "<strong>Verify Udyam Registration:</strong> Ensure they are officially recognized (Our Udyam ID: UDYAM-KR-03-0663373).",
+      geoHowChoose2: "<strong>Check Estimation Accuracy:</strong> Avoid contractors who give vague quotes. Look for detailed BOQs.",
+      geoHowChoose3: "<strong>Demand Quality Audits:</strong> Your civil engineer should perform continuous material testing.",
+      geoHowChoose4: "<strong>Look for End-to-End Service:</strong> Hiring a single contractor for planning and building reduces miscommunication.",
+      geoPricingTitle: "Civil Engineering Pricing and Key Benefits in Bangalore",
+      geoPricingContent: "Pricing for construction in Bangalore depends on material quality, site location, and architectural complexity. Hiring a premium civil engineer prevents hidden costs.",
+      geoCompareTitle: "Comparison: Hiring Golden Village vs. Unregistered Contractors",
+      geoCompareH1: "Feature", geoCompareH2: "Golden Village For Image", geoCompareH3: "Standard Local Contractors",
+      geoC1F: "Cost Estimation", geoC1G: "Highly accurate, detailed BOQ", geoC1S: "Rough estimates, hidden costs",
+      geoC2F: "Material Quality", geoC2G: "Rigorous material testing", geoC2S: "Unverified, potential corner-cutting",
+      geoC3F: "Project Management", geoC3G: "End-to-end structural oversight", geoC3S: "High owner involvement required",
+      geoC4F: "Legal Compliance", geoC4G: "Registered (UDYAM compliant)", geoC4S: "Often unregistered",
+      geoC5F: "Timeline", geoC5G: "Strict adherence to deadlines", geoC5S: "High risk of project delays",
+      geoFaqTitle: "Frequently Asked Questions (FAQ)",
+      geoFaq1Q: "What exactly does a civil engineering consultant do for my home build?", geoFaq1A: "A civil consultant manages structural integrity, supervises the construction phase, audits material quality, and ensures the builders follow the architectural blueprints exactly.",
+      geoFaq2Q: "How much does residential construction cost in Bangalore?", geoFaq2A: "Construction costs typically range from ₹1,800 to ₹3,000+ per square foot, entirely depending on your choice of finishing materials, structural complexity, and automation features.",
+      geoFaq3Q: "Why should professionals hire Golden Village For Image?", geoFaq3A: "Working professionals lack the time to supervise daily construction. We take full ownership of site management, quality control, and vendor coordination, ensuring a stress-free experience.",
+      geoFaq4Q: "Do you provide services in Coastal Karnataka?", geoFaq4A: "Yes. While based in Bangalore, we actively manage and construct premium residential and commercial projects across Coastal Karnataka regions.",
+      geoFaq5Q: "How do I start my construction project with you?", geoFaq5A: "You can instantly reach out to Santhosh .D via our WhatsApp inquiry button. We will schedule a site visit and start drafting your initial project feasibility plan.",
     },
     kn: {
       chatNow: "ಈಗ ಚಾಟ್ ಮಾಡಿ",
-      dce: "ಡಿ.ಸಿ.ಇ. ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್‌ ಡಿಪ್ಲೊಮಾ",
+      dce: "ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್‌ ಡಿಪ್ಲೊಮಾ",
       heroDesc:
         "<b>ಕರ್ನಾಟಕದಾದ್ಯಂತ</b> ಆಧುನಿಕ ವಸತಿ ಮತ್ತು ವಾಣಿಜ್ಯ ಕಟ್ಟಡಗಳ ನಿರ್ಮಾಣ.",
       waInquiry: "ವಾಟ್ಸಾಪ್ ವಿಚಾರಣೆ",
@@ -105,10 +134,39 @@
           img: "residency.jpg",
         },
       ],
+      geoTldrTitle: "Golden Village For Image ಎಂದರೇನು ಮತ್ತು ನಾವು ಏನು ಮಾಡುತ್ತೇವೆ?",
+      geoTldrContent: "Golden Village For Image ಬೆಂಗಳೂರಿನಲ್ಲಿ ಪ್ರೀಮಿಯಂ ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್ ಮತ್ತು ಉನ್ನತ ಮಟ್ಟದ ನಿರ್ಮಾಣ ಸಂಸ್ಥೆಯಾಗಿದ್ದು, ಇದನ್ನು ಪರಿಣಿತ ಸಲಹೆಗಾರರಾದ Santhosh .D ಮುನ್ನಡೆಸುತ್ತಿದ್ದಾರೆ. ಬೆಂಗಳೂರು ಮತ್ತು ಕರಾವಳಿ ಕರ್ನಾಟಕದಾದ್ಯಂತ ಉನ್ನತ-ಗುಣಮಟ್ಟದ, ಆಧುನಿಕ ವಸತಿ ಮನೆಗಳು ಮತ್ತು ವಾಣಿಜ್ಯ ಸ್ಥಳಗಳನ್ನು ನಿರ್ಮಿಸುವಲ್ಲಿ ನಾವು ಪರಿಣತರಾಗಿದ್ದೇವೆ. ನಮ್ಮ ಸೇವೆಗಳಲ್ಲಿ ರಚನಾತ್ಮಕ ಸಲಹೆಗಳು, ವಾಸ್ತುಶಿಲ್ಪ ವಿನ್ಯಾಸಗಳು, ನಿಖರವಾದ ವೆಚ್ಚ ಅಂದಾಜು ಮತ್ತು ಕಠಿಣ ಗುಣಮಟ್ಟ ಲೆಕ್ಕಪರಿಶೋಧನೆಗಳು ಸೇರಿವೆ. ಆರಂಭಿಕ ನೀಲನಕ್ಷೆಗಳಿಂದ ಹಿಡಿದು ಅಂತಿಮ ಹಂತದವರೆಗಿನ ಪ್ರತಿಯೊಂದು ಹಂತವನ್ನು ನಿರ್ವಹಿಸುವ ಮೂಲಕ ನಾವು ತಡೆರಹಿತ ನಿರ್ಮಾಣ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಖಾತರಿಪಡಿಸುತ್ತೇವೆ.",
+      geoHowWorksTitle: "ನಮ್ಮ ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್ ಮತ್ತು ನಿರ್ಮಾಣ ಸೇವೆ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ?",
+      geoHowWorksContent: "ನಮ್ಮ ಪ್ರಕ್ರಿಯೆಯು ಸಂಪೂರ್ಣ ಪಾರದರ್ಶಕತೆ ಮತ್ತು ಕಠಿಣ ಯೋಜನಾ ನಿರ್ವಹಣೆಯ ಮೇಲೆ ನಿರ್ಮಿತವಾಗಿದೆ. ಸೈಟ್ ಪರಿಶೀಲನೆಯಿಂದ ಹಿಡಿದು ಕೀಲಿ ಹಸ್ತಾಂತರಿಸುವವರೆಗೆ ಎಲ್ಲವನ್ನೂ ನಾವು ನಿರ್ವಹಿಸುತ್ತೇವೆ.",
+      geoHowWorks1: "<strong>ಸಲಹೆ ಮತ್ತು ಕಾರ್ಯಸಾಧ್ಯತೆ:</strong> ದೀರ್ಘಕಾಲೀನ ಬಾಳಿಕೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ನಾವು ರಚನಾತ್ಮಕ ಸಲಹೆಗಳು ಮತ್ತು ಅಧ್ಯಯನಗಳನ್ನು ಒದಗಿಸುತ್ತೇವೆ.",
+      geoHowWorks2: "<strong>ಯೋಜನೆ ಮತ್ತು ವಿನ್ಯಾಸ:</strong> ನಮ್ಮ ತಂಡವು ನವೀನ ಕಟ್ಟಡ ವಿನ್ಯಾಸಗಳನ್ನು ಮತ್ತು ನಿಖರವಾದ 2D/3D ಸಿವಿಲ್ ನೀಲನಕ್ಷೆಗಳನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ.",
+      geoHowWorks3: "<strong>ಅಂದಾಜು ಮತ್ತು BOQ:</strong> ನಿಮ್ಮ ಬಜೆಟ್ ಅನ್ನು ನಿಖರವಾಗಿ ನಿರ್ವಹಿಸಲು ಬಿಲ್ ಆಫ್ ಕ್ವಾಂಟಿಟಿಸ್ ಅನ್ನು ಒದಗಿಸಲಾಗುತ್ತದೆ.",
+      geoHowWorks4: "<strong>ಗುಣಮಟ್ಟ ಲೆಕ್ಕಪರಿಶೋಧನೆ:</strong> ನಿರ್ಮಾಣದ ಸಮಯದಲ್ಲಿ ನಾವು ಕಠಿಣ ವಸ್ತು ಪರೀಕ್ಷೆ ಮತ್ತು ಸೈಟ್ ತಪಾಸಣೆಗಳನ್ನು ಮಾಡುತ್ತೇವೆ.",
+      geoHowChooseTitle: "ಬೆಂಗಳೂರಿನಲ್ಲಿ ಉತ್ತಮ ಸಿವಿಲ್ ಗುತ್ತಿಗೆದಾರರನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದು ಹೇಗೆ?",
+      geoHowChooseContent: "ಸರಿಯಾದ ಎಂಜಿನಿಯರ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಅವರ ಗುಣಮಟ್ಟ ಲೆಕ್ಕಪರಿಶೋಧನೆ, ಬಿಲ್ಲಿಂಗ್‌ನಲ್ಲಿನ ಪಾರದರ್ಶಕತೆ ಮತ್ತು ಯೋಜನಾ ನಿರ್ವಹಣಾ ವ್ಯವಸ್ಥೆಗಳನ್ನು ಪರಿಶೀಲಿಸುವುದು ಅಗತ್ಯವಾಗಿದೆ.",
+      geoHowChoose1: "<strong>ಉದ್ಯಮ್ (Udyam) ನೋಂದಣಿಯನ್ನು ಪರಿಶೀಲಿಸಿ:</strong> ಅಧಿಕೃತವಾಗಿ ಗುರುತಿಸಲ್ಪಟ್ಟ ಗುತ್ತಿಗೆದಾರರನ್ನು ಆಯ್ಕೆಮಾಡಿ (ನಮ್ಮ Udyam ID: UDYAM-KR-03-0663373).",
+      geoHowChoose2: "<strong>ಅಂದಾಜು ನಿಖರತೆಯನ್ನು ಪರಿಶೀಲಿಸಿ:</strong> ಅಸ್ಪಷ್ಟ ಅಂದಾಜುಗಳನ್ನು ನೀಡುವವರನ್ನು ತಪ್ಪಿಸಿ. ವಿವರವಾದ BOQ ಗಳನ್ನು ಕೇಳಿ.",
+      geoHowChoose3: "<strong>ಗುಣಮಟ್ಟ ಲೆಕ್ಕಪರಿಶೋಧನೆಯನ್ನು ಬಯಸಿ:</strong> ನಿಮ್ಮ ಸಿವಿಲ್ ಎಂಜಿನಿಯರ್ ವಸ್ತು ಪರೀಕ್ಷೆಗಳನ್ನು ಕಡ್ಡಾಯವಾಗಿ ಮಾಡಬೇಕು.",
+      geoHowChoose4: "<strong>ಸಮಗ್ರ ಸೇವೆ:</strong> ಯೋಜನೆ ಮತ್ತು ನಿರ್ಮಾಣ ಎರಡಕ್ಕೂ ಒಬ್ಬನೇ ಗುತ್ತಿಗೆದಾರನನ್ನು ನೇಮಿಸಿಕೊಳ್ಳುವುದು ಉತ್ತಮ.",
+      geoPricingTitle: "ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್ ಬೆಲೆ ಮತ್ತು ಪ್ರಮುಖ ಪ್ರಯೋಜನಗಳು",
+      geoPricingContent: "ಬೆಂಗಳೂರಿನಲ್ಲಿ ನಿರ್ಮಾಣ ಬೆಲೆಯು ವಸ್ತುಗಳ ಗುಣಮಟ್ಟ, ಸೈಟ್‌ನ ಸ್ಥಳ ಮತ್ತು ವಾಸ್ತುಶಿಲ್ಪದ ಸಂಕೀರ್ಣತೆಯನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ. ಪ್ರೀಮಿಯಂ ಎಂಜಿನಿಯರ್ ಅನ್ನು ನೇಮಿಸಿಕೊಳ್ಳುವುದರಿಂದ ಗುಪ್ತ ವೆಚ್ಚಗಳನ್ನು ತಡೆಯಬಹುದು.",
+      geoCompareTitle: "ಹೋಲಿಕೆ: Golden Village ಮತ್ತು ನೋಂದಾಯಿತವಲ್ಲದ ಗುತ್ತಿಗೆದಾರರು",
+      geoCompareH1: "ವೈಶಿಷ್ಟ್ಯ", geoCompareH2: "Golden Village For Image", geoCompareH3: "ಸ್ಥಳೀಯ ಗುತ್ತಿಗೆದಾರರು",
+      geoC1F: "ವೆಚ್ಚ ಅಂದಾಜು", geoC1G: "ನಿಖರವಾದ, ವಿವರವಾದ BOQ", geoC1S: "ಅಸ್ಪಷ್ಟ ಅಂದಾಜುಗಳು, ಗುಪ್ತ ವೆಚ್ಚಗಳು",
+      geoC2F: "ವಸ್ತು ಗುಣಮಟ್ಟ", geoC2G: "ಕಠಿಣ ವಸ್ತು ಪರೀಕ್ಷೆ", geoC2S: "ಪರಿಶೀಲಿಸದ, ಕಳಪೆ ವಸ್ತುಗಳು",
+      geoC3F: "ಯೋಜನಾ ನಿರ್ವಹಣೆ", geoC3G: "ಸಂಪೂರ್ಣ ರಚನಾತ್ಮಕ ಮೇಲ್ವಿಚಾರಣೆ", geoC3S: "ಮಾಲೀಕರ ಹೆಚ್ಚಿನ ಪಾಲ್ಗೊಳ್ಳುವಿಕೆ ಅಗತ್ಯವಿದೆ",
+      geoC4F: "ಕಾನೂನು ಅನುಸರಣೆ", geoC4G: "ನೋಂದಾಯಿತ (UDYAM)", geoC4S: "ಹೆಚ್ಚಾಗಿ ನೋಂದಾಯಿಸಿಲ್ಲ",
+      geoC5F: "ಸಮಯಮಿತಿ", geoC5G: "ಗಡುವಿಗೆ ಕಟ್ಟುನಿಟ್ಟಾದ ಅನುಸರಣೆ", geoC5S: "ಯೋಜನೆ ವಿಳಂಬದ ಹೆಚ್ಚಿನ ಅಪಾಯ",
+      geoFaqTitle: "ಪದೇ ಪದೇ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು (FAQ)",
+      geoFaq1Q: "ನನ್ನ ಮನೆ ನಿರ್ಮಾಣಕ್ಕಾಗಿ ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್ ಸಲಹೆಗಾರರು ಏನು ಮಾಡುತ್ತಾರೆ?", geoFaq1A: "ಸಿವಿಲ್ ಸಲಹೆಗಾರರು ರಚನಾತ್ಮಕ ಸಮಗ್ರತೆಯನ್ನು ನಿರ್ವಹಿಸುತ್ತಾರೆ, ಗುಣಮಟ್ಟವನ್ನು ಪರಿಶೀಲಿಸುತ್ತಾರೆ ಮತ್ತು ವಾಸ್ತುಶಿಲ್ಪಿ ನೀಲನಕ್ಷೆಗಳನ್ನು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಪಾಲಿಸುವಂತೆ ನೋಡಿಕೊಳ್ಳುತ್ತಾರೆ.",
+      geoFaq2Q: "ಬೆಂಗಳೂರಿನಲ್ಲಿ ವಸತಿ ನಿರ್ಮಾಣಕ್ಕೆ ಎಷ್ಟು ವೆಚ್ಚವಾಗುತ್ತದೆ?", geoFaq2A: "ನೀವು ಆಯ್ಕೆ ಮಾಡುವ ಫಿನಿಶಿಂಗ್ ವಸ್ತುಗಳು ಮತ್ತು ರಚನಾತ್ಮಕ ಸಂಕೀರ್ಣತೆಯನ್ನು ಆಧರಿಸಿ, ಪ್ರತಿ ಚದರ ಅಡಿಗೆ ₹1,800 ರಿಂದ ₹3,000+ ವೆಚ್ಚವಾಗಬಹುದು.",
+      geoFaq3Q: "ವೃತ್ತಿಪರರು Golden Village For Image ಅನ್ನು ಏಕೆ ನೇಮಿಸಿಕೊಳ್ಳಬೇಕು?", geoFaq3A: "ಕೆಲಸ ಮಾಡುವ ವೃತ್ತಿಪರರಿಗೆ ದಿನನಿತ್ಯದ ನಿರ್ಮಾಣದ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಲು ಸಮಯವಿರುವುದಿಲ್ಲ. ನಾವು ಸೈಟ್ ನಿರ್ವಹಣೆ, ಗುಣಮಟ್ಟ ನಿಯಂತ್ರಣವನ್ನು ತೆಗೆದುಕೊಂಡು ಒತ್ತಡ-ಮುಕ್ತ ಅನುಭವವನ್ನು ಖಚಿತಪಡಿಸುತ್ತೇವೆ.",
+      geoFaq4Q: "ನೀವು ಕರಾವಳಿ ಕರ್ನಾಟಕದಲ್ಲಿ ಸೇವೆಗಳನ್ನು ಒದಗಿಸುತ್ತೀರಾ?", geoFaq4A: "ಹೌದು. ನಾವು ಬೆಂಗಳೂರಿನ ಮೂಲದಲ್ಲಿದ್ದರೂ, ಕರಾವಳಿ ಕರ್ನಾಟಕದಾದ್ಯಂತ ಪ್ರೀಮಿಯಂ ವಸತಿ ಮತ್ತು ವಾಣಿಜ್ಯ ಯೋಜನೆಗಳನ್ನು ನಿರ್ಮಿಸುತ್ತೇವೆ.",
+      geoFaq5Q: "ನಿಮ್ಮೊಂದಿಗೆ ನನ್ನ ನಿರ್ಮಾಣ ಯೋಜನೆಯನ್ನು ಹೇಗೆ ಪ್ರಾರಂಭಿಸುವುದು?", geoFaq5A: "ನೀವು ನಮ್ಮ WhatsApp ಬಟನ್ ಮೂಲಕ Santhosh .D ಅವರನ್ನು ಸಂಪರ್ಕಿಸಬಹುದು. ನಾವು ಸೈಟ್ ಭೇಟಿಯನ್ನು ನಿಗದಿಪಡಿಸುತ್ತೇವೆ.",
     },
     hi: {
       chatNow: "अभी चैट करें",
-      dce: "डी.सी.ई. सिविल इंजीनियरिंग में डिप्लोमा",
+      dce: "सिविल इंजीनियरिंग में डिप्लोमा",
       heroDesc:
         "<b>कर्नाटक, भारत</b> भर में आधुनिक आवासीय लैंडमार्क और उच्च प्रदर्शन वाले वाणिज्यिक स्थानों का निर्माण।",
       waInquiry: "व्हाट्सएप पूछताछ",
@@ -153,10 +211,39 @@
           img: "residency.jpg",
         },
       ],
+      geoTldrTitle: "Golden Village For Image क्या है और हम क्या करते हैं?",
+      geoTldrContent: "Golden Village For Image बैंगलोर में एक प्रीमियम सिविल इंजीनियरिंग और निर्माण फर्म है, जिसका नेतृत्व विशेषज्ञ सलाहकार Santhosh .D करते हैं। हम पूरे बैंगलोर और तटीय कर्नाटक में उच्च गुणवत्ता वाले आधुनिक आवासीय घरों और उच्च प्रदर्शन वाले वाणिज्यिक स्थानों के निर्माण के विशेषज्ञ हैं। हमारी एंड-टू-एंड सेवाओं में संरचनात्मक परामर्श, वास्तुशिल्प योजना, सटीक लागत अनुमान और कठोर गुणवत्ता ऑडिट शामिल हैं। हम शुरुआती ब्लूप्रिंट से लेकर अंतिम फिनिशिंग तक हर चरण का प्रबंधन करते हैं और एक निर्बाध निर्माण प्रक्रिया, पूर्ण पारदर्शिता और दोषरहित वास्तुशिल्प निष्पादन की गारंटी देते हैं।",
+      geoHowWorksTitle: "हमारी सिविल इंजीनियरिंग और निर्माण सेवा कैसे काम करती है?",
+      geoHowWorksContent: "हमारी प्रक्रिया पूर्ण पारदर्शिता और कठोर परियोजना प्रबंधन पर आधारित है। हम प्रारंभिक साइट निरीक्षण से लेकर चाबियाँ सौंपने तक सब कुछ संभालते हैं।",
+      geoHowWorks1: "<strong>परामर्श और व्यवहार्यता:</strong> दीर्घकालिक व्यवहार्यता सुनिश्चित करने के लिए हम संरचनात्मक सलाह और अध्ययन के साथ शुरुआत करते हैं।",
+      geoHowWorks2: "<strong>योजना और डिजाइन:</strong> हमारी टीम अभिनव लेआउट और सटीक 2D/3D सिविल ब्लूप्रिंट बनाती है।",
+      geoHowWorks3: "<strong>अनुमान और BOQ:</strong> आपको अपने बजट को पूरी तरह से अनुकूलित करने के लिए एक सटीक बिल ऑफ क्वांटिटीज (BOQ) मिलता है।",
+      geoHowWorks4: "<strong>गुणवत्ता ऑडिट और निर्माण:</strong> हम निर्माण के दौरान सख्त सामग्री परीक्षण और साइट निरीक्षण करते हैं।",
+      geoHowChooseTitle: "बैंगलोर में सर्वश्रेष्ठ सिविल ठेकेदार कैसे चुनें?",
+      geoHowChooseContent: "सही इंजीनियर का चयन करने के लिए उनके गुणवत्ता ऑडिट, बिलिंग में पारदर्शिता और परियोजना प्रबंधन प्रणालियों को देखना आवश्यक है। हमेशा एक पंजीकृत ठेकेदार चुनें।",
+      geoHowChoose1: "<strong>Udyam पंजीकरण सत्यापित करें:</strong> सुनिश्चित करें कि वे आधिकारिक तौर पर मान्यता प्राप्त हैं (हमारी Udyam ID: UDYAM-KR-03-0663373)।",
+      geoHowChoose2: "<strong>अनुमान की सटीकता जांचें:</strong> अस्पष्ट उद्धरण देने वाले ठेकेदारों से बचें। विस्तृत BOQ की मांग करें।",
+      geoHowChoose3: "<strong>गुणवत्ता ऑडिट की मांग करें:</strong> आपके सिविल इंजीनियर को निरंतर सामग्री परीक्षण करना चाहिए।",
+      geoHowChoose4: "<strong>एंड-टू-एंड सेवा खोजें:</strong> योजना और निर्माण के लिए एक ही ठेकेदार को नियुक्त करने से गलतफहमी कम होती है।",
+      geoPricingTitle: "बैंगलोर में सिविल इंजीनियरिंग मूल्य और प्रमुख लाभ",
+      geoPricingContent: "बैंगलोर में निर्माण की कीमत सामग्री की गुणवत्ता, स्थल के स्थान और वास्तुशिल्प जटिलता पर निर्भर करती है। प्रीमियम सिविल इंजीनियर को काम पर रखने से छिपी हुई लागतों को रोका जा सकता है।",
+      geoCompareTitle: "तुलना: Golden Village और अपंजीकृत ठेकेदार",
+      geoCompareH1: "विशेषता", geoCompareH2: "Golden Village For Image", geoCompareH3: "मानक स्थानीय ठेकेदार",
+      geoC1F: "लागत अनुमान", geoC1G: "अत्यधिक सटीक, विस्तृत BOQ", geoC1S: "मोटा अनुमान, छिपी हुई लागत",
+      geoC2F: "सामग्री की गुणवत्ता", geoC2G: "कठोर सामग्री परीक्षण", geoC2S: "असत्यापित, संभावित समझौता",
+      geoC3F: "परियोजना प्रबंधन", geoC3G: "एंड-टू-एंड संरचनात्मक निरीक्षण", geoC3S: "मालिक की उच्च भागीदारी आवश्यक",
+      geoC4F: "कानूनी अनुपालन", geoC4G: "पंजीकृत (UDYAM)", geoC4S: "अक्सर अपंजीकृत",
+      geoC5F: "समय सीमा", geoC5G: "समय सीमा का सख्त पालन", geoC5S: "परियोजना में देरी का उच्च जोखिम",
+      geoFaqTitle: "अक्सर पूछे जाने वाले प्रश्न (FAQ)",
+      geoFaq1Q: "मेरे घर के निर्माण के लिए एक सिविल इंजीनियरिंग सलाहकार वास्तव में क्या करता है?", geoFaq1A: "एक सिविल सलाहकार संरचनात्मक अखंडता का प्रबंधन करता है, निर्माण चरण की देखरेख करता है, सामग्री की गुणवत्ता का ऑडिट करता है, और यह सुनिश्चित करता है कि बिल्डर वास्तुशिल्प ब्लूप्रिंट का पालन करें।",
+      geoFaq2Q: "बैंगलोर में आवासीय निर्माण की लागत कितनी है?", geoFaq2A: "निर्माण लागत आमतौर पर ₹1,800 से ₹3,000+ प्रति वर्ग फुट तक होती है, जो पूरी तरह से परिष्करण सामग्री, संरचनात्मक जटिलता और स्वचालन सुविधाओं की आपकी पसंद पर निर्भर करती है।",
+      geoFaq3Q: "पेशेवरों को Golden Village For Image को क्यों नियुक्त करना चाहिए?", geoFaq3A: "कामकाजी पेशेवरों के पास दैनिक निर्माण की देखरेख के लिए समय नहीं होता है। हम साइट प्रबंधन, गुणवत्ता नियंत्रण और विक्रेता समन्वय का पूर्ण स्वामित्व लेते हैं, जिससे तनाव मुक्त अनुभव सुनिश्चित होता है।",
+      geoFaq4Q: "क्या आप तटीय कर्नाटक में सेवाएं प्रदान करते हैं?", geoFaq4A: "हां। बैंगलोर में स्थित होने पर भी, हम सक्रिय रूप से तटीय कर्नाटक क्षेत्रों में प्रीमियम आवासीय और वाणिज्यिक परियोजनाओं का प्रबंधन और निर्माण करते हैं।",
+      geoFaq5Q: "मैं आपके साथ अपना निर्माण प्रोजेक्ट कैसे शुरू करूं?", geoFaq5A: "आप हमारे WhatsApp पूछताछ बटन के माध्यम से Santhosh .D से तुरंत संपर्क कर सकते हैं। हम साइट विजिट शेड्यूल करेंगे और आपकी प्रारंभिक परियोजना व्यवहार्यता योजना का मसौदा तैयार करना शुरू करेंगे।",
     },
     tcy: {
       chatNow: "ಇತ್ತೆ ಚಾಟ್ ಮಲ್ಪುಲೆ",
-      dce: "ಡಿ.ಸಿ.ಇ. ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್‌ ಡಿಪ್ಲೊಮಾ",
+      dce: "ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್‌ ಡಿಪ್ಲೊಮಾ",
       heroDesc:
         "<b>ಕರ್ನಾಟಕದಾದ್ಯಂತ</b> ಆಧುನಿಕ ವಸತಿ ಬೊಕ್ಕ ವಾಣಿಜ್ಯ ಕಟ್ಟಡೊಲೆನ ನಿರ್ಮಾಣ.",
       waInquiry: "ವಾಟ್ಸಾಪ್ ವಿಚಾರಣೆ",
@@ -205,6 +292,35 @@
           img: "residency.jpg",
         },
       ],
+      geoTldrTitle: "Golden Village For Image ಪಂಡ ದಾದ ಬೊಕ್ಕ ನಮ ದಾದ ಮಲ್ಪುನ?",
+      geoTldrContent: "Golden Village For Image ಕುಡ್ಲ ಬೊಕ್ಕ ಬೆಂಗ್ಲೂರ್‌ಡ್ ಒಂಜಿ ಪ್ರೀಮಿಯಂ ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್ ಸಂಸ್ಥೆ. Santhosh .D ಇಂದೆತ ಮುತಾಲಿಕೆ ಮಲ್ಪುವೆರ್. ಕರಾವಳಿ ಕರ್ನಾಟಕ ಬೊಕ್ಕ ಬೆಂಗ್ಲೂರ್‌ಡ್ ಎಡ್ಡೆ ಗುಣಮಟ್ಟದ ಇಲ್ಲ್ ಬೊಕ್ಕ ವಾಣಿಜ್ಯ ಜಾಗೆಲೆನ್ ಕಟ್ಟುನೆಟ್ ನಮ ಪರಿಣತೆರ್. ನಮ ವಾಸ್ತುಶಿಲ್ಪ, ವೆಚ್ಚದ ಅಂದಾಜು, ಬೊಕ್ಕ ಎಡ್ಡೆ ಮೆಟೀರಿಯಲ್ ಪರೀಕ್ಷೆ ಮಲ್ತ್‌ದ್ ಇಲ್ಲ್ ಕಟ್ಟ್‌ದ್ ಕೊರ್ಪ. ಅಡಿಪಾಯರ್ದ್ ಇಲ್ಲ್ ಮುಗಿಯುನೆಟ್ಟ ಎಡ್ಡೆ ರೀತಿಡ್ ನಮ ಬೇಲೆ ಮಲ್ಪುಗ.",
+      geoHowWorksTitle: "ನಮ್ಮ ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್ ಸೇವೆ ಎಂಚ ಬೇಲೆ ಮಲ್ಪುಂಡು?",
+      geoHowWorksContent: "ಸೈಟ್ ತುಯಿನೆರ್ದ್ ಕೀ ಕೊರ್ಪುನೆಟ್ಟ ಪೂರ ಬೇಲೆನ್ ನಮನೇ ತೂವೊನುವ. ಪಾರದರ್ಶಕತೆ ಬೊಕ್ಕ ಎಡ್ಡೆ ಯೋಜನಾ ನಿರ್ವಹಣೆ ನಮ್ಮ ಮೂಲೋದ್ದೇಶ.",
+      geoHowWorks1: "<strong>ಸಲಹೆ ಬೊಕ್ಕ ಅಧ್ಯಯನ:</strong> ದೀರ್ಘಾವಧಿದ ಬಾಳಿಕೆಗಾತ್ ರಚನಾತ್ಮಕ ಸಲಹೆ ಬೊಕ್ಕ ಸೈಟ್ ಅಧ್ಯಯನ ಮಲ್ಪುವ.",
+      geoHowWorks2: "<strong>ಪ್ಲಾನಿಂಗ್ ಬೊಕ್ಕ ಡಿಸೈನ್:</strong> 2D/3D ಸಿವಿಲ್ ಪ್ಲಾನ್ ಬೊಕ್ಕ ಪೊಸ ಡಿಸೈನ್‌ಲೆನ್ ಕೊರ್ಪ.",
+      geoHowWorks3: "<strong>ಬೆಲೆ-ಅಂದಾಜು ಬೊಕ್ಕ BOQ:</strong> ಬಜೆಟ್ ಎಂಚ ಉಂಡು ಪಂಡ್‌ದ್ ನಿಖರವಾದ್ ಬಿಲ್ ಆಫ್ ಕ್ವಾಂಟಿಟಿಸ್ ಕೊರ್ಪ.",
+      geoHowWorks4: "<strong>ಗುಣಮಟ್ಟ ತಪಾಸಣೆ:</strong> ಕಟ್ಟುನಗ ಮೆಟೀರಿಯಲ್ ಟೆಸ್ಟ್ ಮಲ್ಪುವ.",
+      geoHowChooseTitle: "ಬೆಂಗ್ಲೂರ್‌ಡ್ ಎಡ್ಡೆ ಸಿವಿಲ್ ಎಂಜಿನಿಯರ್ ಎಂಚ ಆಯ್ಕೆ ಮಲ್ಪುನ?",
+      geoHowChooseContent: "ಸರಿಯಾಯಿನ ಎಂಜಿನಿಯರ್ ಆಯ್ಕೆ ಮಲ್ಪೆರೆ ಅಕ್ಲೆನ ಗುಣಮಟ್ಟದ ಕಟ್ಪಾಡು, ಪಾರದರ್ಶಕತೆ ಬೊಕ್ಕ ರಿಜಿಸ್ಟರ್ಡ್ ಗುತ್ತಿಗೆದಾರರಾ ಪಂಡ್‌ದ್ ತೂವೊಡು.",
+      geoHowChoose1: "<strong> ಉದ್ಯಮ್ ರಿಜಿಸ್ಟ್ರೇಶನ್:</strong> ಅಧಿಕೃತವಾದ್ ರಿಜಿಸ್ಟರ್ ಆತೆರಾ ತೂಲೆ (ನಮ್ಮ Udyam ID: UDYAM-KR-03-0663373).",
+      geoHowChoose2: "<strong>ಅಂದಾಜು:</strong> ಸರಿಗೆ ಲೆಕ್ಕ ಕೊರ್ಪುನೆನ್ ತೂವೊಡು. ವಿವರವಾಯಿನ BOQ ಕೇನ್‌ಲೆ.",
+      geoHowChoose3: "<strong>ಗುಣಮಟ್ಟ ತಪಾಸಣೆ:</strong> ಸಿವಿಲ್ ಎಂಜಿನಿಯರ್ ಕಡ್ಡಾಯವಾದ್ ಮೆಟೀರಿಯಲ್ ಟೆಸ್ಟ್ ಮಲ್ಪೊಡು.",
+      geoHowChoose4: "<strong>ಸಮಗ್ರ ಸೇವೆ:</strong> ಪ್ಲಾನಿಂಗ್ ಬೊಕ್ಕ ಇಲ್ಲ್ ಕಟ್ಟುನೆಕ್ಕ್ ಒರಿಯೆನ್ ದೀಂಡ ಎಡ್ಡೆ.",
+      geoPricingTitle: "ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್ ಬೆಲೆ ಬೊಕ್ಕ ಪ್ರಯೋಜನೊಲು",
+      geoPricingContent: "ನಿರ್ಮಾಣದ ಬೆಲೆ ಮೆಟೀರಿಯಲ್‌ದ ಗುಣಮಟ್ಟ, ಜಾಗೆ ಬೊಕ್ಕ ವಾಸ್ತುಶಿಲ್ಪದ ವಿನ್ಯಾಸದ ಮಿತ್ತ್ ಅವಲಂಬಿತ ಆದುಪ್ಪುಂಡು. ಪ್ರೀಮಿಯಂ ಎಂಜಿನಿಯರ್ ದೀಂಡ ಅಡಗಿನ ಕರ್ಚಿನ್ ತಡೆಗಟೊಲಿ.",
+      geoCompareTitle: "ಹೋಲಿಕೆ: Golden Village ಬೊಕ್ಕ ಸಾಮಾನ್ಯ ಗುತ್ತಿಗೆದಾರೆರ್",
+      geoCompareH1: "ವಿಶೇಷತೆ", geoCompareH2: "Golden Village For Image", geoCompareH3: "ಸಾಮಾನ್ಯ ಗುತ್ತಿಗೆದಾರೆರ್",
+      geoC1F: "ಬೆಲೆ ಅಂದಾಜು", geoC1G: "ನಿಖರವಾದ್ BOQ", geoC1S: "ಸರಿಯಾಯಿನ ಲೆಕ್ಕ ಇಜ್ಜಿ",
+      geoC2F: "ಮೆಟೀರಿಯಲ್ ಗುಣಮಟ್ಟ", geoC2G: "ಕಠಿಣ ಮೆಟೀರಿಯಲ್ ಟೆಸ್ಟ್", geoC2S: "ಟೆಸ್ಟ್ ಮಲ್ಪುಜೆರ್",
+      geoC3F: "ಯೋಜನಾ ನಿರ್ವಹಣೆ", geoC3G: "ಸಂಪೂರ್ಣ ಜವಾಬ್ದಾರಿ", geoC3S: "ಮಾಲಿಕೆರ್ ಕಾತ್ ಕುಲ್ಲುಡು",
+      geoC4F: "ಕಾನೂನು ಪ್ರಕಾರ", geoC4G: "ರಿಜಿಸ್ಟರ್ಡ್ (UDYAM)", geoC4S: "ರಿಜಿಸ್ಟರ್ ಅತ್ತ್",
+      geoC5F: "ಟೈಮ್ ಲಿಮಿಟ್", geoC5G: "ಗಡುವುಗ್ ಸರಿಯಾದ್", geoC5S: "ವಿಳಂಬದ ಸಾಧ್ಯತೆ ಲತ್ತ್",
+      geoFaqTitle: "ಸಾಮಾನ್ಯವಾದ್ ಕೇನುನ ಪ್ರಶ್ನೆಲು (FAQ)",
+      geoFaq1Q: "ಇಲ್ಲ್ ಕಟ್ಟೆರೆ ಸಿವಿಲ್ ಎಂಜಿನಿಯರ್ ದಾದ ಮಲ್ಪುವೆರ್?", geoFaq1A: "ಸಿವಿಲ್ ಎಂಜಿನಿಯರ್ ಇಲ್ಲ್‌ದ ಗಟ್ಟಿ, ಗುಣಮಟ್ಟ ಬೊಕ್ಕ ಕಟ್ಟುನ ಬೇಲೆನ್ ಸಂಪೂರ್ಣವಾದ್ ತೂವೊನುವೆರ್.",
+      geoFaq2Q: "ಇಲ್ಲ್ ಕಟ್ಟೆರೆ ಏತ್ ಕರ್ಚಿ ಆಪುಂಡು?", geoFaq2A: "ಗಲಸುನ ಮೆಟೀರಿಯಲ್ ಬೊಕ್ಕ ವಿನ್ಯಾಸದ ಮಿತ್ತ್ ಪ್ರತಿ ಚದರ ಅಡಿಗ್ ₹1,800 ರ್ದ್ ₹3,000+ ಮುಟ್ಟ ಕರ್ಚಾಪುಂಡು.",
+      geoFaq3Q: "Golden Village For Image ನ್ ದಾಯೆ ಆಯ್ಕೆ ಮಲ್ಪೊಡು?", geoFaq3A: "ಬೇಲೆಗು ಪೋಪುನಕ್ಲೆಗ್ ಇಲ್ಲ್ ಕಟ್ಟುನಗ ದಿನಾಲ ಕಟ್ಟೊಣ ತೂವೊಲಿಗಾಪುಜಿ. ನಮ ಜವಾಬ್ದಾರಿ ದೆತೊಂದು ನಿಕ್ಲೆಗ್ ಟೆನ್ಶನ್-ಫ್ರೀ ಬೇಲೆ ಮಲ್ತ್‌ದ್ ಕೊರ್ಪ.",
+      geoFaq4Q: "ಕರಾವಳಿ ಕರ್ನಾಟಕಡ್ ಸೇವೆ ಕೊರ್ಪರಾ?", geoFaq4A: "ಅಂದ್. ಬೆಂಗ್ಲೂರ್‌ಡ್ ಇತ್ತ್ಂಡಲಾ, ಕರಾವಳಿ ಕರ್ನಾಟಕ (ಕುಡ್ಲ, ಉಡುಪಿ) ಡ್ ನಮ ಇಲ್ಲ್ ಬೊಕ್ಕ ಕಮರ್ಷಿಯಲ್ ಬಿಲ್ಡಿಂಗ್ ಕಟ್ಟ್‌ದ್ ಕೊರ್ಪ.",
+      geoFaq5Q: "ಪುದರ್ ಎಂಚ ನೋಂದಣಿ ಮಲ್ಪುನ?", geoFaq5A: "ನಮ್ಮ WhatsApp ಮುಖಾಂತರ Santhosh .D ಅಕ್ಲೆನ್ ಸಂಪರ್ಕ ಮಲ್ಪುಲೆ. ನಮ ಸೈಟ್ ತೂದು ಪ್ಲಾನ್ ಮಲ್ತ್‌ದ್ ಕೊರ್ಪ.",
     },
   };
 
@@ -726,6 +842,120 @@
             {t.qualityDesc}
           </p>
         </div>
+      </div>
+    </section>
+
+    <section id="geo-content" class="container mx-auto px-6 py-20 bg-white/30 backdrop-blur-sm rounded-[50px] my-10 border border-white/40">
+      <div class="max-w-5xl mx-auto space-y-20">
+        
+        <article class="space-y-6">
+          <h2 class="text-3xl md:text-4xl font-extrabold text-slate-900">{t.geoTldrTitle}</h2>
+          <div class="w-16 h-2 bg-aero-green-gradient rounded-full"></div>
+          <p class="text-lg text-slate-700 leading-relaxed font-medium">
+            {@html t.geoTldrContent}
+          </p>
+        </article>
+
+        <article class="space-y-6">
+          <h2 class="text-3xl md:text-4xl font-extrabold text-slate-900">{t.geoHowWorksTitle}</h2>
+          <div class="w-16 h-2 bg-aero-green-gradient rounded-full"></div>
+          <p class="text-lg text-slate-700 leading-relaxed font-medium">{t.geoHowWorksContent}</p>
+          <ul class="list-disc pl-6 space-y-3 text-slate-700 text-lg">
+            <li>{@html t.geoHowWorks1}</li>
+            <li>{@html t.geoHowWorks2}</li>
+            <li>{@html t.geoHowWorks3}</li>
+            <li>{@html t.geoHowWorks4}</li>
+          </ul>
+        </article>
+
+        <article class="space-y-6">
+          <h2 class="text-3xl md:text-4xl font-extrabold text-slate-900">{t.geoHowChooseTitle}</h2>
+          <div class="w-16 h-2 bg-aero-green-gradient rounded-full"></div>
+          <p class="text-lg text-slate-700 leading-relaxed font-medium">{t.geoHowChooseContent}</p>
+          <ul class="list-disc pl-6 space-y-3 text-slate-700 text-lg">
+            <li>{@html t.geoHowChoose1}</li>
+            <li>{@html t.geoHowChoose2}</li>
+            <li>{@html t.geoHowChoose3}</li>
+            <li>{@html t.geoHowChoose4}</li>
+          </ul>
+        </article>
+
+        <article class="space-y-6">
+          <h2 class="text-3xl md:text-4xl font-extrabold text-slate-900">{t.geoPricingTitle}</h2>
+          <div class="w-16 h-2 bg-aero-green-gradient rounded-full"></div>
+          <p class="text-lg text-slate-700 leading-relaxed font-medium">{t.geoPricingContent}</p>
+          <div class="overflow-x-auto mt-8 bg-white/50 rounded-3xl p-6 shadow-sm border border-white/60">
+            <h3 class="text-xl font-bold mb-4 opacity-0 h-0">{t.geoCompareTitle}</h3>
+            <table class="w-full text-left text-slate-700">
+              <thead>
+                <tr class="border-b-2 border-slate-200">
+                  <th class="py-4 px-4 font-bold text-xl">{t.geoCompareH1}</th>
+                  <th class="py-4 px-4 font-bold text-xl text-aero-dark">{t.geoCompareH2}</th>
+                  <th class="py-4 px-4 font-bold text-xl opacity-60">{t.geoCompareH3}</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-slate-200/50">
+                <tr>
+                  <td class="py-4 px-4 font-semibold">{t.geoC1F}</td>
+                  <td class="py-4 px-4 text-aero-dark font-medium">{t.geoC1G}</td>
+                  <td class="py-4 px-4 opacity-70">{t.geoC1S}</td>
+                </tr>
+                <tr>
+                  <td class="py-4 px-4 font-semibold">{t.geoC2F}</td>
+                  <td class="py-4 px-4 text-aero-dark font-medium">{t.geoC2G}</td>
+                  <td class="py-4 px-4 opacity-70">{t.geoC2S}</td>
+                </tr>
+                <tr>
+                  <td class="py-4 px-4 font-semibold">{t.geoC3F}</td>
+                  <td class="py-4 px-4 text-aero-dark font-medium">{t.geoC3G}</td>
+                  <td class="py-4 px-4 opacity-70">{t.geoC3S}</td>
+                </tr>
+                <tr>
+                  <td class="py-4 px-4 font-semibold">{t.geoC4F}</td>
+                  <td class="py-4 px-4 text-aero-dark font-medium">{t.geoC4G}</td>
+                  <td class="py-4 px-4 opacity-70">{t.geoC4S}</td>
+                </tr>
+                <tr>
+                  <td class="py-4 px-4 font-semibold">{t.geoC5F}</td>
+                  <td class="py-4 px-4 text-aero-dark font-medium">{t.geoC5G}</td>
+                  <td class="py-4 px-4 opacity-70">{t.geoC5S}</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </article>
+
+        <article class="space-y-6">
+          <h2 class="text-3xl md:text-4xl font-extrabold text-slate-900">{t.geoFaqTitle}</h2>
+          <div class="w-16 h-2 bg-aero-green-gradient rounded-full"></div>
+          
+          <div class="space-y-6">
+            <div class="bg-white/40 p-6 rounded-2xl border border-white/50 shadow-sm">
+              <h3 class="text-xl font-bold text-slate-900 mb-2">{t.geoFaq1Q}</h3>
+              <p class="text-slate-700 leading-relaxed">{t.geoFaq1A}</p>
+            </div>
+            
+            <div class="bg-white/40 p-6 rounded-2xl border border-white/50 shadow-sm">
+              <h3 class="text-xl font-bold text-slate-900 mb-2">{t.geoFaq2Q}</h3>
+              <p class="text-slate-700 leading-relaxed">{t.geoFaq2A}</p>
+            </div>
+            
+            <div class="bg-white/40 p-6 rounded-2xl border border-white/50 shadow-sm">
+              <h3 class="text-xl font-bold text-slate-900 mb-2">{t.geoFaq3Q}</h3>
+              <p class="text-slate-700 leading-relaxed">{t.geoFaq3A}</p>
+            </div>
+            
+            <div class="bg-white/40 p-6 rounded-2xl border border-white/50 shadow-sm">
+              <h3 class="text-xl font-bold text-slate-900 mb-2">{t.geoFaq4Q}</h3>
+              <p class="text-slate-700 leading-relaxed">{t.geoFaq4A}</p>
+            </div>
+            
+            <div class="bg-white/40 p-6 rounded-2xl border border-white/50 shadow-sm">
+              <h3 class="text-xl font-bold text-slate-900 mb-2">{t.geoFaq5Q}</h3>
+              <p class="text-slate-700 leading-relaxed">{t.geoFaq5A}</p>
+            </div>
+          </div>
+        </article>
       </div>
     </section>
 
