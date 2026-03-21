@@ -43,17 +43,16 @@
       rights:
         "Built for Karnataka. No personal data is collected. All rights reserved. <br/> Registration Num: <a href='https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=IVCZwGqr5KcBbqwZcLCZ+mF0S+Glm4eZMDFJ+EFnhkE=' target='_blank' class='hover:text-aero-green underline'>UDYAM-KR-03-0663373</a>",
       projects: [
-        { title: "Modern Villa", location: "Mysuru, KA", img: "villa.jpg" },
-        {
-          title: "Commercial Plaza",
-          location: "Hubballi, KA",
-          img: "plaza.jpg",
-        },
-        {
-          title: "Smart Residency",
-          location: "Mangaluru, KA",
-          img: "residency.jpg",
-        },
+        { title: "3D planning project", location: "Residency", img: "residency_project.webp" },
+        { title: "Open space office", location: "Mysuru, KA", img: "mysuru.webm" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara_4.webp" },
+        { title: "2-story personal house", location: "Bengaluru, KA", img: "bengaluru.webp" },
+        { title: "3D planning project", location: "Luxury Home", img: "luxury_home_project.webp" },
+        { title: "3-story personal house", location: "Bhatkal, KA", img: "bhatkal.webp" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara_3.webp" },
+        { title: "3D planning project", location: "Villa", img: "villa_project.webp" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara_2.webp" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara.webp" },
       ],
       geoTldrTitle: "What is Golden Village For Image and what do we do?",
       geoTldrContent: "Golden Village For Image is a premium civil engineering and construction firm in Bangalore, led by expert consultant Santhosh .D. We specialize in building high-quality, modern residential homes and high-performance commercial spaces across Bangalore and Coastal Karnataka. Our end-to-end services include structural consulting, architectural planning, precise cost estimation, and rigorous quality audits. We help working professionals and business owners transform their project ideas into reality without the typical stress of construction delays or budget overruns. By managing every phase—from the initial blueprints to the final structural finishing—we guarantee a seamless build process, total transparency, and flawless architectural execution.",
@@ -124,21 +123,16 @@
       rights:
         "ಕರ್ನಾಟಕಕ್ಕಾಗಿ ನಿರ್ಮಿಸಲಾಗಿದೆ. ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿಲ್ಲ. ಎಲ್ಲ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ. <br/> ನೋಂದಣಿ ಸಂಖ್ಯೆ: <a href='https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=IVCZwGqr5KcBbqwZcLCZ+mF0S+Glm4eZMDFJ+EFnhkE=' target='_blank' class='hover:text-aero-green underline'>UDYAM-KR-03-0663373</a>",
       projects: [
-        {
-          title: "ಆಧುನಿಕ ವಿಲ್ಲಾ",
-          location: "ಮೈಸೂರು, ಕರ್ನಾಟಕ",
-          img: "villa.jpg",
-        },
-        {
-          title: "ವಾಣಿಜ್ಯ ಪ್ಲಾಜಾ",
-          location: "ಹುಬ್ಬಳ್ಳಿ, ಕರ್ನಾಟಕ",
-          img: "plaza.jpg",
-        },
-        {
-          title: "ಸ್ಮಾರ್ಟ್ ರೆಸಿಡೆನ್ಸಿ",
-          location: "ಮಂಗಳೂರು, ಕರ್ನಾಟಕ",
-          img: "residency.jpg",
-        },
+        { title: "3D planning project", location: "Residency", img: "residency_project.webp" },
+        { title: "Open space office", location: "Mysuru, KA", img: "mysuru.webm" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara_4.webp" },
+        { title: "2-story personal house", location: "Bengaluru, KA", img: "bengaluru.webp" },
+        { title: "3D planning project", location: "Luxury Home", img: "luxury_home_project.webp" },
+        { title: "3-story personal house", location: "Bhatkal, KA", img: "bhatkal.webp" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara_3.webp" },
+        { title: "3D planning project", location: "Villa", img: "villa_project.webp" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara_2.webp" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara.webp" },
       ],
       geoTldrTitle: "Golden Village For Image ಎಂದರೇನು ಮತ್ತು ನಾವು ಏನು ಮಾಡುತ್ತೇವೆ?",
       geoTldrContent: "Golden Village For Image ಬೆಂಗಳೂರಿನಲ್ಲಿ ಪ್ರೀಮಿಯಂ ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್ ಮತ್ತು ಉನ್ನತ ಮಟ್ಟದ ನಿರ್ಮಾಣ ಸಂಸ್ಥೆಯಾಗಿದ್ದು, ಇದನ್ನು ಪರಿಣಿತ ಸಲಹೆಗಾರರಾದ Santhosh .D ಮುನ್ನಡೆಸುತ್ತಿದ್ದಾರೆ. ಬೆಂಗಳೂರು ಮತ್ತು ಕರಾವಳಿ ಕರ್ನಾಟಕದಾದ್ಯಂತ ಉನ್ನತ-ಗುಣಮಟ್ಟದ, ಆಧುನಿಕ ವಸತಿ ಮನೆಗಳು ಮತ್ತು ವಾಣಿಜ್ಯ ಸ್ಥಳಗಳನ್ನು ನಿರ್ಮಿಸುವಲ್ಲಿ ನಾವು ಪರಿಣತರಾಗಿದ್ದೇವೆ. ನಮ್ಮ ಸೇವೆಗಳಲ್ಲಿ ರಚನಾತ್ಮಕ ಸಲಹೆಗಳು, ವಾಸ್ತುಶಿಲ್ಪ ವಿನ್ಯಾಸಗಳು, ನಿಖರವಾದ ವೆಚ್ಚ ಅಂದಾಜು ಮತ್ತು ಕಠಿಣ ಗುಣಮಟ್ಟ ಲೆಕ್ಕಪರಿಶೋಧನೆಗಳು ಸೇರಿವೆ. ಆರಂಭಿಕ ನೀಲನಕ್ಷೆಗಳಿಂದ ಹಿಡಿದು ಅಂತಿಮ ಹಂತದವರೆಗಿನ ಪ್ರತಿಯೊಂದು ಹಂತವನ್ನು ನಿರ್ವಹಿಸುವ ಮೂಲಕ ನಾವು ತಡೆರಹಿತ ನಿರ್ಮಾಣ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಖಾತರಿಪಡಿಸುತ್ತೇವೆ.",
@@ -208,17 +202,16 @@
       rights:
         "कर्नाटक के लिए निर्मित। कोई व्यक्तिगत डेटा एकत्र नहीं किया जाता है। सर्वाधिकार सुरक्षित। <br/> पंजीकरण संख्या: <a href='https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=IVCZwGqr5KcBbqwZcLCZ+mF0S+Glm4eZMDFJ+EFnhkE=' target='_blank' class='hover:text-aero-green underline'>UDYAM-KR-03-0663373</a>",
       projects: [
-        { title: "आधुनिक विला", location: "मैसूर, कर्नाटक", img: "villa.jpg" },
-        {
-          title: "वाणिज्यिक प्लाजा",
-          location: "हुबली, कर्नाटक",
-          img: "plaza.jpg",
-        },
-        {
-          title: "स्मार्ट रेजीडेंसी",
-          location: "मैंगलोर, कर्नाटक",
-          img: "residency.jpg",
-        },
+        { title: "3D planning project", location: "Residency", img: "residency_project.webp" },
+        { title: "Open space office", location: "Mysuru, KA", img: "mysuru.webm" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara_4.webp" },
+        { title: "2-story personal house", location: "Bengaluru, KA", img: "bengaluru.webp" },
+        { title: "3D planning project", location: "Luxury Home", img: "luxury_home_project.webp" },
+        { title: "3-story personal house", location: "Bhatkal, KA", img: "bhatkal.webp" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara_3.webp" },
+        { title: "3D planning project", location: "Villa", img: "villa_project.webp" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara_2.webp" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara.webp" },
       ],
       geoTldrTitle: "Golden Village For Image क्या है और हम क्या करते हैं?",
       geoTldrContent: "Golden Village For Image बैंगलोर में एक प्रीमियम सिविल इंजीनियरिंग और निर्माण फर्म है, जिसका नेतृत्व विशेषज्ञ सलाहकार Santhosh .D करते हैं। हम पूरे बैंगलोर और तटीय कर्नाटक में उच्च गुणवत्ता वाले आधुनिक आवासीय घरों और उच्च प्रदर्शन वाले वाणिज्यिक स्थानों के निर्माण के विशेषज्ञ हैं। हमारी एंड-टू-एंड सेवाओं में संरचनात्मक परामर्श, वास्तुशिल्प योजना, सटीक लागत अनुमान और कठोर गुणवत्ता ऑडिट शामिल हैं। हम शुरुआती ब्लूप्रिंट से लेकर अंतिम फिनिशिंग तक हर चरण का प्रबंधन करते हैं और एक निर्बाध निर्माण प्रक्रिया, पूर्ण पारदर्शिता और दोषरहित वास्तुशिल्प निष्पादन की गारंटी देते हैं।",
@@ -288,21 +281,16 @@
       rights:
         "ಕರ್ನಾಟಕೊಗಾದ್ ನಿರ್ಮಾಣ. ಓವ್ವೇ ವೈಯಕ್ತಿಕ ಡೇಟಾ ಮಲ್ತ್‌ಜಿ. ಮಾತ ಹಕ್ಕು ಕಾಪಾಡ್‌ದ್ಂಡ್. <br/> ನೋಂದಣಿ ಸಂಖ್ಯೆ: <a href='https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=IVCZwGqr5KcBbqwZcLCZ+mF0S+Glm4eZMDFJ+EFnhkE=' target='_blank' class='hover:text-aero-green underline'>UDYAM-KR-03-0663373</a>",
       projects: [
-        {
-          title: "ಆಧುನಿಕ ವಿಲ್ಲಾ",
-          location: "ಮೈಸೂರು, ಕರ್ನಾಟಕ",
-          img: "villa.jpg",
-        },
-        {
-          title: "ವಾಣಿಜ್ಯ ಪ್ಲಾಜಾ",
-          location: "ಹುಬ್ಬಳ್ಳಿ, ಕರ್ನಾಟಕ",
-          img: "plaza.jpg",
-        },
-        {
-          title: "ಸ್ಮಾರ್ಟ್ ರೆಸಿಡೆನ್ಸಿ",
-          location: "ಕುಡ್ಲ, ಕರ್ನಾಟಕ",
-          img: "residency.jpg",
-        },
+        { title: "3D planning project", location: "Residency", img: "residency_project.webp" },
+        { title: "Open space office", location: "Mysuru, KA", img: "mysuru.webm" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara_4.webp" },
+        { title: "2-story personal house", location: "Bengaluru, KA", img: "bengaluru.webp" },
+        { title: "3D planning project", location: "Luxury Home", img: "luxury_home_project.webp" },
+        { title: "3-story personal house", location: "Bhatkal, KA", img: "bhatkal.webp" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara_3.webp" },
+        { title: "3D planning project", location: "Villa", img: "villa_project.webp" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara_2.webp" },
+        { title: "1-story personal house", location: "Sagara, KA", img: "sullalli_basadi_sagara.webp" },
       ],
       geoTldrTitle: "Golden Village For Image ಪಂಡ ದಾದ ಬೊಕ್ಕ ನಮ ದಾದ ಮಲ್ಪುನ?",
       geoTldrContent: "Golden Village For Image ಕುಡ್ಲ ಬೊಕ್ಕ ಬೆಂಗ್ಲೂರ್‌ಡ್ ಒಂಜಿ ಪ್ರೀಮಿಯಂ ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್ ಸಂಸ್ಥೆ. Santhosh .D ಇಂದೆತ ಮುತಾಲಿಕೆ ಮಲ್ಪುವೆರ್. ಕರಾವಳಿ ಕರ್ನಾಟಕ ಬೊಕ್ಕ ಬೆಂಗ್ಲೂರ್‌ಡ್ ಎಡ್ಡೆ ಗುಣಮಟ್ಟದ ಇಲ್ಲ್ ಬೊಕ್ಕ ವಾಣಿಜ್ಯ ಜಾಗೆಲೆನ್ ಕಟ್ಟುನೆಟ್ ನಮ ಪರಿಣತೆರ್. ನಮ ವಾಸ್ತುಶಿಲ್ಪ, ವೆಚ್ಚದ ಅಂದಾಜು, ಬೊಕ್ಕ ಎಡ್ಡೆ ಮೆಟೀರಿಯಲ್ ಪರೀಕ್ಷೆ ಮಲ್ತ್‌ದ್ ಇಲ್ಲ್ ಕಟ್ಟ್‌ದ್ ಕೊರ್ಪ. ಅಡಿಪಾಯರ್ದ್ ಇಲ್ಲ್ ಮುಗಿಯುನೆಟ್ಟ ಎಡ್ಡೆ ರೀತಿಡ್ ನಮ ಬೇಲೆ ಮಲ್ಪುಗ.",
@@ -362,7 +350,7 @@
 
     const interval = setInterval(() => {
       currentIndex = (currentIndex + 1) % projects.length;
-    }, 3500);
+    }, 2500);
 
     /** @param {MouseEvent} e */
     const handleOutsideClick = (e) => {
@@ -720,11 +708,22 @@
             {#each projects as project, i}
               <div class="project-card {getCardClass(i, currentIndex)}">
                 <div class="glossy-card w-full h-full p-4 flex flex-col">
-                  <img
-                    alt={project.title}
-                    class="w-full h-2/3 object-cover rounded-2xl mb-4"
-                    src="{base}/images/{project.img}"
-                  />
+                  {#if project.img.endsWith('.webm')}
+                    <video
+                      autoplay
+                      muted
+                      loop
+                      playsinline
+                      class="w-full h-2/3 object-cover rounded-2xl mb-4"
+                      src="{base}/images/{project.img}"
+                    ></video>
+                  {:else}
+                    <img
+                      alt={project.title}
+                      class="w-full h-2/3 object-cover rounded-2xl mb-4"
+                      src="{base}/images/{project.img}"
+                    />
+                  {/if}
                   <h3 class="text-2xl font-bold text-slate-800 text-left">
                     {project.title}
                   </h3>
@@ -1004,7 +1003,7 @@
             <img
               alt={t.dreamHome}
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
-              src="{base}/images/luxury-home.jpg"
+              src="{base}/images/luxury_home_project.webp"
             />
             <div
               class="absolute inset-0 bg-gradient-to-t from-black/95 via-black/40 to-transparent p-6 sm:p-10 flex flex-col justify-end"
@@ -1035,7 +1034,7 @@
             <img
               alt={t.commercial}
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
-              src="{base}/images/commercial-project.jpg"
+              src="{base}/images/residency_project.webp"
             />
             <div
               class="absolute inset-0 bg-gradient-to-t from-aero-dark/95 via-aero-dark/40 to-transparent p-6 sm:p-10 flex flex-col justify-end"
