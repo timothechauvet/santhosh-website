@@ -1,8 +1,8 @@
-# 🦞 Santhosh's Website
+# Santhosh's Website 👨‍💻
 
 > *Personal website or portfolio for Santhosh.*
 
-![Badge](https://img.shields.io/badge/status-active-success.svg) ![Portfolio](https://img.shields.io/badge/-Portfolio-blue.svg) ![Frontend](https://img.shields.io/badge/-Frontend-blue.svg)
+![Portfolio](https://img.shields.io/badge/-Portfolio-blue.svg) ![Frontend](https://img.shields.io/badge/-Frontend-blue.svg) ![Static](https://img.shields.io/badge/-Static-blue.svg)
 
 ## 🏗️ Architecture
 Static frontend website.
@@ -11,6 +11,9 @@ Static frontend website.
 - **HTML**
 - **CSS**
 - **JS**
+
+## 📌 Overview
+Clean, fast, simple personal web presence deployed statically.
 
 ---
 *Generated with care by Homardless 🦞*
