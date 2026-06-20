@@ -16,4 +16,3 @@ Static frontend website.
 Clean, fast, simple personal web presence deployed statically.
 
 ---
-*Generated with care by Homardless 🦞*
