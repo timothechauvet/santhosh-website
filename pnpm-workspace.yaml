@@ -1,2 +1,5 @@
 allowBuilds:
   esbuild: set this to true or false
+minimumReleaseAgeExclude:
+  - cookie@0.7.0
+  - esbuild@0.28.1
