@@ -24,6 +24,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
       - name: Install Node.js
         uses: actions/setup-node@v4
         with:
@@ -35,7 +39,7 @@ jobs:
 
       - name: Build SvelteKit static application
         env:
-          BASE_PATH: '/${{ github.event.repository.name }}'
+          BASE_PATH: '${{ steps.pages.outputs.base_path }}'
         run: npm run build
 
       - name: Upload Artifacts
